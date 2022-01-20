@@ -1,0 +1,41 @@
+2022-01-20 13:48:03 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:48:03 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:48:03 INFO Benchmarking |SUL name: TCP_FreeBSD_Server.dot
+2022-01-20 13:48:03 INFO Benchmarking |SUL dir: /mnt/c/Users/damas/GitHub/cttlearn/experiments/../data/automata_wiki/benchmarks/TCP/TCP_FreeBSD_Server.dot
+2022-01-20 13:48:03 INFO Benchmarking |Seed: 1642682883555
+2022-01-20 13:48:03 INFO Benchmarking |Cache: Y
+2022-01-20 13:48:03 INFO Benchmarking |EquivalenceOracle: LearnlibEQOracle(w,1)
+2022-01-20 13:48:03 INFO Benchmarking |Method: L*M
+2022-01-20 13:48:04 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':9,'CESize':5}
+2022-01-20 13:48:04 INFO EQWrapperHypSize |EQStats:{'Iter':2,'HypSize':10,'CESize':8}
+2022-01-20 13:48:04 INFO EQWrapperHypSize |EQStats:{'Iter':3,'HypSize':11,'CESize':5}
+2022-01-20 13:48:04 INFO EQWrapperHypSize |EQStats:{'Iter':4,'HypSize':13,'CESize':8}
+2022-01-20 13:48:04 INFO EQWrapperHypSize |EQStats:{'Iter':5,'HypSize':15,'CESize':7}
+2022-01-20 13:48:04 INFO EQWrapperHypSize |EQStats:{'Iter':6,'HypSize':16,'CESize':6}
+2022-01-20 13:48:04 INFO EQWrapperHypSize |EQStats:{'Iter':7,'HypSize':24,'CESize':11}
+2022-01-20 13:48:05 INFO EQWrapperHypSize |EQStats:{'Iter':8,'HypSize':25,'CESize':9}
+2022-01-20 13:48:05 INFO EQWrapperHypSize |EQStats:{'Iter':9,'HypSize':26,'CESize':12}
+2022-01-20 13:48:05 INFO EQWrapperHypSize |EQStats:{'Iter':10,'HypSize':27,'CESize':6}
+2022-01-20 13:48:05 INFO EQWrapperHypSize |EQStats:{'Iter':11,'HypSize':28,'CESize':9}
+2022-01-20 13:48:05 INFO EQWrapperHypSize |EQStats:{'Iter':12,'HypSize':29,'CESize':9}
+2022-01-20 13:48:05 INFO EQWrapperHypSize |EQStats:{'Iter':13,'HypSize':36,'CESize':11}
+2022-01-20 13:48:05 INFO EQWrapperHypSize |EQStats:{'Iter':14,'HypSize':37,'CESize':11}
+2022-01-20 13:48:05 INFO EQWrapperHypSize |EQStats:{'Iter':15,'HypSize':38,'CESize':11}
+2022-01-20 13:48:05 INFO EQWrapperHypSize |EQStats:{'Iter':16,'HypSize':42,'CESize':11}
+2022-01-20 13:48:06 INFO EQWrapperHypSize |EQStats:{'Iter':17,'HypSize':43,'CESize':11}
+2022-01-20 13:48:06 INFO EQWrapperHypSize |EQStats:{'Iter':18,'HypSize':44,'CESize':14}
+2022-01-20 13:48:06 INFO EQWrapperHypSize |EQStats:{'Iter':19,'HypSize':45,'CESize':14}
+2022-01-20 13:48:06 INFO EQWrapperHypSize |EQStats:{'Iter':20,'HypSize':53,'CESize':15}
+2022-01-20 13:48:06 INFO EQWrapperHypSize |EQStats:{'Iter':21,'HypSize':54,'CESize':3}
+2022-01-20 13:48:07 INFO EQWrapperHypSize |EQStats:{'Iter':22,'HypSize':55,'CESize':0}
+2022-01-20 13:48:07 INFO Benchmarking |Rounds: 22
+2022-01-20 13:48:07 INFO Benchmarking |MQ [Resets]: 23140
+2022-01-20 13:48:07 INFO Benchmarking |MQ [Symbols]: 229867
+2022-01-20 13:48:07 INFO Benchmarking |EQ [Resets]: 179178
+2022-01-20 13:48:07 INFO Benchmarking |EQ [Symbols]: 2048425
+2022-01-20 13:48:07 INFO SimpleProfiler |Learning [ms]: 608
+2022-01-20 13:48:07 INFO SimpleProfiler |Searching for counterexample [ms]: 3002
+2022-01-20 13:48:07 INFO Benchmarking |Qsize: 55
+2022-01-20 13:48:07 INFO Benchmarking |Isize: 13
+2022-01-20 13:48:07 INFO Benchmarking |Equivalent: OK
+2022-01-20 13:48:07 INFO Benchmarking |Info: 8B2l   xxx

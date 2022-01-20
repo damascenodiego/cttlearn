@@ -1,0 +1,22 @@
+2022-01-20 13:48:11 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:48:11 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:48:11 INFO Benchmarking |SUL name: TCP_FreeBSD_Client.dot
+2022-01-20 13:48:11 INFO Benchmarking |SUL dir: /mnt/c/Users/damas/GitHub/cttlearn/experiments/../data/automata_wiki/benchmarks/TCP/TCP_FreeBSD_Client.dot
+2022-01-20 13:48:11 INFO Benchmarking |Seed: 1642682890776
+2022-01-20 13:48:11 INFO Benchmarking |Cache: Y
+2022-01-20 13:48:11 INFO SouchaCTT |EquivalenceOracle: SouchaCTT: {Technique=spy;ExtraStates=1;}
+2022-01-20 13:48:11 INFO Benchmarking |EquivalenceOracle: SouchaCTT(spy,1)
+2022-01-20 13:48:11 INFO Benchmarking |Method: L*M
+2022-01-20 13:48:11 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':10,'CESize':8}
+2022-01-20 13:48:12 INFO EQWrapperHypSize |EQStats:{'Iter':2,'HypSize':12,'CESize':0}
+2022-01-20 13:48:12 INFO Benchmarking |Rounds: 2
+2022-01-20 13:48:12 INFO Benchmarking |MQ [Resets]: 1329
+2022-01-20 13:48:12 INFO Benchmarking |MQ [Symbols]: 6314
+2022-01-20 13:48:12 INFO Benchmarking |EQ [Resets]: 1835
+2022-01-20 13:48:12 INFO Benchmarking |EQ [Symbols]: 12609
+2022-01-20 13:48:12 INFO SimpleProfiler |Learning [ms]: 115
+2022-01-20 13:48:12 INFO SimpleProfiler |Searching for counterexample [ms]: 670
+2022-01-20 13:48:12 INFO Benchmarking |Qsize: 12
+2022-01-20 13:48:12 INFO Benchmarking |Isize: 10
+2022-01-20 13:48:12 INFO Benchmarking |Equivalent: OK
+2022-01-20 13:48:12 INFO Benchmarking |Info: 4GUt

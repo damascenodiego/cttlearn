@@ -1,0 +1,22 @@
+2022-01-20 13:48:13 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:48:13 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:48:13 INFO Benchmarking |SUL name: TCP_Windows8_Client.dot
+2022-01-20 13:48:13 INFO Benchmarking |SUL dir: /mnt/c/Users/damas/GitHub/cttlearn/experiments/../data/automata_wiki/benchmarks/TCP/TCP_Windows8_Client.dot
+2022-01-20 13:48:13 INFO Benchmarking |Seed: 1642682893271
+2022-01-20 13:48:13 INFO Benchmarking |Cache: Y
+2022-01-20 13:48:13 INFO SouchaCTT |EquivalenceOracle: SouchaCTT: {Technique=spy;ExtraStates=1;}
+2022-01-20 13:48:13 INFO Benchmarking |EquivalenceOracle: SouchaCTT(spy,1)
+2022-01-20 13:48:13 INFO Benchmarking |Method: L*M
+2022-01-20 13:48:14 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':11,'CESize':6}
+2022-01-20 13:48:14 INFO EQWrapperHypSize |EQStats:{'Iter':2,'HypSize':13,'CESize':0}
+2022-01-20 13:48:14 INFO Benchmarking |Rounds: 2
+2022-01-20 13:48:14 INFO Benchmarking |MQ [Resets]: 1438
+2022-01-20 13:48:14 INFO Benchmarking |MQ [Symbols]: 6637
+2022-01-20 13:48:14 INFO Benchmarking |EQ [Resets]: 2207
+2022-01-20 13:48:14 INFO Benchmarking |EQ [Symbols]: 15733
+2022-01-20 13:48:14 INFO SimpleProfiler |Learning [ms]: 123
+2022-01-20 13:48:14 INFO SimpleProfiler |Searching for counterexample [ms]: 1085
+2022-01-20 13:48:14 INFO Benchmarking |Qsize: 13
+2022-01-20 13:48:14 INFO Benchmarking |Isize: 10
+2022-01-20 13:48:14 INFO Benchmarking |Equivalent: OK
+2022-01-20 13:48:14 INFO Benchmarking |Info: T30d

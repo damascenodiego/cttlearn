@@ -1,0 +1,25 @@
+ClosingStrategy,ObservationTableCEXHandler,SUL name,Seed,Cache,EquivalenceOracle,Method,Rounds,MQ [Resets],MQ [Symbols],EQ [Resets],EQ [Symbols],Learning [ms],Searching for counterexample [ms],Qsize,Isize,Equivalent,Info
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,22,23140,229867,179178,2048425,608,3002,55,13,OK,8B2l   xxx
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,13,11913,91915,81792,733133,398,1687,38,13,OK,7Zi6
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682883585,Y,"LearnlibEQOracle(w,1)",L*M,23,22061,210447,197991,2108922,496,3261,57,12,OK,PjU3
+CloseFirst,RivestSchapire,TCP_Linux_Client.dot,1642682883592,Y,"LearnlibEQOracle(w,1)",L*M,3,1781,8470,11780,69280,125,727,15,10,OK,70IC
+CloseFirst,RivestSchapire,TCP_FreeBSD_Client.dot,1642682883593,Y,"LearnlibEQOracle(w,1)",L*M,1,1010,4210,6060,31320,102,740,12,10,NOK,7oCc
+CloseFirst,RivestSchapire,TCP_Windows8_Client.dot,1642682883604,Y,"LearnlibEQOracle(w,1)",L*M,2,1428,6464,7730,43320,208,458,13,10,OK,8QFr
+CloseFirst,RivestSchapire,TCP_FreeBSD_Client.dot,1642682883622,Y,"LearnlibEQOracle(wp,1)",L*M,1,1010,4210,2804,13761,159,314,12,10,NOK,Hv09
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682885811,Y,"LearnlibEQOracle(wp,1)",L*M,23,24075,237626,46523,485483,552,1769,55,13,OK,8WpA
+CloseFirst,RivestSchapire,TCP_Linux_Client.dot,1642682885906,Y,"LearnlibEQOracle(wp,1)",L*M,3,1781,8470,5336,29626,153,543,15,10,OK,3KwY
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682885912,Y,"LearnlibEQOracle(wp,1)",L*M,24,22700,214283,51658,499067,449,1811,57,12,OK,jMo7
+CloseFirst,RivestSchapire,TCP_Windows8_Client.dot,1642682885919,Y,"LearnlibEQOracle(wp,1)",L*M,2,1428,6464,3261,17668,212,304,13,10,OK,3TCx
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682888261,Y,"LearnlibEQOracle(wp,1)",L*M,14,12348,94409,28153,237692,300,1152,38,13,OK,u0S7
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682888423,Y,"SouchaCTT(hsi,1)",L*M,20,21682,212824,29841,314673,316,11539,55,13,OK,Y1KX
+CloseFirst,RivestSchapire,TCP_FreeBSD_Client.dot,1642682888506,Y,"SouchaCTT(hsi,1)",L*M,1,1010,4210,2335,11774,117,444,12,10,NOK,p3Zv
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682888507,Y,"SouchaCTT(hsi,1)",L*M,17,18295,170834,37300,366689,374,11671,57,12,OK,KxA7
+CloseFirst,RivestSchapire,TCP_Linux_Client.dot,1642682888544,Y,"SouchaCTT(hsi,1)",L*M,3,1781,8470,4529,25695,198,1310,15,10,OK,IV15
+CloseFirst,RivestSchapire,TCP_Windows8_Client.dot,1642682889235,Y,"SouchaCTT(hsi,1)",L*M,2,1428,6464,3736,21132,201,955,13,10,OK,zF5A
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682889346,Y,"SouchaCTT(hsi,1)",L*M,11,10959,83962,28229,238018,359,6372,38,13,OK,wOx2
+CloseFirst,RivestSchapire,TCP_FreeBSD_Client.dot,1642682890776,Y,"SouchaCTT(spy,1)",L*M,2,1329,6314,1835,12609,115,670,12,10,OK,4GUt
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682891471,Y,"SouchaCTT(spy,1)",L*M,18,20751,207485,24800,288748,332,21950,55,13,OK,EVx4
+CloseFirst,RivestSchapire,TCP_Linux_Client.dot,1642682891658,Y,"SouchaCTT(spy,1)",L*M,3,1811,10142,2726,21898,133,1351,15,10,OK,3dsS
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682892041,Y,"SouchaCTT(spy,1)",L*M,4,4642,32459,969,5884,352,2516,57,12,NOK,6IHi
+CloseFirst,RivestSchapire,TCP_Windows8_Client.dot,1642682893271,Y,"SouchaCTT(spy,1)",L*M,2,1438,6637,2207,15733,123,1085,13,10,OK,T30d
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682894856,Y,"SouchaCTT(spy,1)",L*M,11,11094,86985,22740,217547,221,13270,38,13,OK,q1TQ

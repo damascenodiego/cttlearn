@@ -1,0 +1,21 @@
+2022-01-20 13:48:03 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:48:03 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:48:04 INFO Benchmarking |SUL name: TCP_Windows8_Client.dot
+2022-01-20 13:48:04 INFO Benchmarking |SUL dir: /mnt/c/Users/damas/GitHub/cttlearn/experiments/../data/automata_wiki/benchmarks/TCP/TCP_Windows8_Client.dot
+2022-01-20 13:48:04 INFO Benchmarking |Seed: 1642682883604
+2022-01-20 13:48:04 INFO Benchmarking |Cache: Y
+2022-01-20 13:48:04 INFO Benchmarking |EquivalenceOracle: LearnlibEQOracle(w,1)
+2022-01-20 13:48:04 INFO Benchmarking |Method: L*M
+2022-01-20 13:48:04 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':11,'CESize':5}
+2022-01-20 13:48:04 INFO EQWrapperHypSize |EQStats:{'Iter':2,'HypSize':13,'CESize':0}
+2022-01-20 13:48:04 INFO Benchmarking |Rounds: 2
+2022-01-20 13:48:04 INFO Benchmarking |MQ [Resets]: 1428
+2022-01-20 13:48:04 INFO Benchmarking |MQ [Symbols]: 6464
+2022-01-20 13:48:04 INFO Benchmarking |EQ [Resets]: 7730
+2022-01-20 13:48:04 INFO Benchmarking |EQ [Symbols]: 43320
+2022-01-20 13:48:04 INFO SimpleProfiler |Learning [ms]: 208
+2022-01-20 13:48:04 INFO SimpleProfiler |Searching for counterexample [ms]: 458
+2022-01-20 13:48:04 INFO Benchmarking |Qsize: 13
+2022-01-20 13:48:04 INFO Benchmarking |Isize: 10
+2022-01-20 13:48:04 INFO Benchmarking |Equivalent: OK
+2022-01-20 13:48:04 INFO Benchmarking |Info: 8QFr

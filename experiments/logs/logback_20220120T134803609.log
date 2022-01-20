@@ -1,0 +1,22 @@
+2022-01-20 13:48:03 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:48:03 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:48:03 INFO Benchmarking |SUL name: TCP_Linux_Client.dot
+2022-01-20 13:48:03 INFO Benchmarking |SUL dir: /mnt/c/Users/damas/GitHub/cttlearn/experiments/../data/automata_wiki/benchmarks/TCP/TCP_Linux_Client.dot
+2022-01-20 13:48:03 INFO Benchmarking |Seed: 1642682883592
+2022-01-20 13:48:03 INFO Benchmarking |Cache: Y
+2022-01-20 13:48:03 INFO Benchmarking |EquivalenceOracle: LearnlibEQOracle(w,1)
+2022-01-20 13:48:03 INFO Benchmarking |Method: L*M
+2022-01-20 13:48:04 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':13,'CESize':5}
+2022-01-20 13:48:04 INFO EQWrapperHypSize |EQStats:{'Iter':2,'HypSize':14,'CESize':5}
+2022-01-20 13:48:04 INFO EQWrapperHypSize |EQStats:{'Iter':3,'HypSize':15,'CESize':0}
+2022-01-20 13:48:04 INFO Benchmarking |Rounds: 3
+2022-01-20 13:48:04 INFO Benchmarking |MQ [Resets]: 1781
+2022-01-20 13:48:04 INFO Benchmarking |MQ [Symbols]: 8470
+2022-01-20 13:48:04 INFO Benchmarking |EQ [Resets]: 11780
+2022-01-20 13:48:04 INFO Benchmarking |EQ [Symbols]: 69280
+2022-01-20 13:48:04 INFO SimpleProfiler |Learning [ms]: 125
+2022-01-20 13:48:04 INFO SimpleProfiler |Searching for counterexample [ms]: 727
+2022-01-20 13:48:04 INFO Benchmarking |Qsize: 15
+2022-01-20 13:48:04 INFO Benchmarking |Isize: 10
+2022-01-20 13:48:04 INFO Benchmarking |Equivalent: OK
+2022-01-20 13:48:04 INFO Benchmarking |Info: 70IC

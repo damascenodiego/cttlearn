@@ -1,0 +1,226 @@
+ClosingStrategy,ObservationTableCEXHandler,SUL name,Seed,Cache,EquivalenceOracle,Method,Iter,HypSize,CESize,Info
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,1,9,5,8B2l   xxx
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,2,10,8,8B2l   xxx
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,3,11,5,8B2l   xxx
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,4,13,8,8B2l   xxx
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,5,15,7,8B2l   xxx
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,6,16,6,8B2l   xxx
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,7,24,11,8B2l   xxx
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,8,25,9,8B2l   xxx
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,9,26,12,8B2l   xxx
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,10,27,6,8B2l   xxx
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,11,28,9,8B2l   xxx
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,12,29,9,8B2l   xxx
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,13,36,11,8B2l   xxx
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,14,37,11,8B2l   xxx
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,15,38,11,8B2l   xxx
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,16,42,11,8B2l   xxx
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,17,43,11,8B2l   xxx
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,18,44,14,8B2l   xxx
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,19,45,14,8B2l   xxx
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,20,53,15,8B2l   xxx
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,21,54,3,8B2l   xxx
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,22,55,0,8B2l   xxx
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,1,13,7,7Zi6
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,2,15,5,7Zi6
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,3,16,8,7Zi6
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,4,18,5,7Zi6
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,5,20,10,7Zi6
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,6,22,7,7Zi6
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,7,27,6,7Zi6
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,8,29,6,7Zi6
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,9,30,10,7Zi6
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,10,34,11,7Zi6
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,11,36,11,7Zi6
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,12,37,3,7Zi6
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682883555,Y,"LearnlibEQOracle(w,1)",L*M,13,38,0,7Zi6
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682883585,Y,"LearnlibEQOracle(w,1)",L*M,1,15,5,PjU3
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682883585,Y,"LearnlibEQOracle(w,1)",L*M,2,16,8,PjU3
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682883585,Y,"LearnlibEQOracle(w,1)",L*M,3,17,5,PjU3
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682883585,Y,"LearnlibEQOracle(w,1)",L*M,4,19,9,PjU3
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682883585,Y,"LearnlibEQOracle(w,1)",L*M,5,20,9,PjU3
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682883585,Y,"LearnlibEQOracle(w,1)",L*M,6,21,7,PjU3
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682883585,Y,"LearnlibEQOracle(w,1)",L*M,7,26,5,PjU3
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682883585,Y,"LearnlibEQOracle(w,1)",L*M,8,28,10,PjU3
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682883585,Y,"LearnlibEQOracle(w,1)",L*M,9,29,9,PjU3
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682883585,Y,"LearnlibEQOracle(w,1)",L*M,10,33,12,PjU3
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682883585,Y,"LearnlibEQOracle(w,1)",L*M,11,34,11,PjU3
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682883585,Y,"LearnlibEQOracle(w,1)",L*M,12,35,11,PjU3
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682883585,Y,"LearnlibEQOracle(w,1)",L*M,13,36,9,PjU3
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682883585,Y,"LearnlibEQOracle(w,1)",L*M,14,38,10,PjU3
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682883585,Y,"LearnlibEQOracle(w,1)",L*M,15,43,10,PjU3
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682883585,Y,"LearnlibEQOracle(w,1)",L*M,16,44,10,PjU3
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682883585,Y,"LearnlibEQOracle(w,1)",L*M,17,46,14,PjU3
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682883585,Y,"LearnlibEQOracle(w,1)",L*M,18,49,14,PjU3
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682883585,Y,"LearnlibEQOracle(w,1)",L*M,19,50,14,PjU3
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682883585,Y,"LearnlibEQOracle(w,1)",L*M,20,52,15,PjU3
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682883585,Y,"LearnlibEQOracle(w,1)",L*M,21,54,3,PjU3
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682883585,Y,"LearnlibEQOracle(w,1)",L*M,22,55,7,PjU3
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682883585,Y,"LearnlibEQOracle(w,1)",L*M,23,57,0,PjU3
+CloseFirst,RivestSchapire,TCP_Linux_Client.dot,1642682883592,Y,"LearnlibEQOracle(w,1)",L*M,1,13,5,70IC
+CloseFirst,RivestSchapire,TCP_Linux_Client.dot,1642682883592,Y,"LearnlibEQOracle(w,1)",L*M,2,14,5,70IC
+CloseFirst,RivestSchapire,TCP_Linux_Client.dot,1642682883592,Y,"LearnlibEQOracle(w,1)",L*M,3,15,0,70IC
+CloseFirst,RivestSchapire,TCP_FreeBSD_Client.dot,1642682883593,Y,"LearnlibEQOracle(w,1)",L*M,1,10,0,7oCc
+CloseFirst,RivestSchapire,TCP_Windows8_Client.dot,1642682883604,Y,"LearnlibEQOracle(w,1)",L*M,1,11,5,8QFr
+CloseFirst,RivestSchapire,TCP_Windows8_Client.dot,1642682883604,Y,"LearnlibEQOracle(w,1)",L*M,2,13,0,8QFr
+CloseFirst,RivestSchapire,TCP_FreeBSD_Client.dot,1642682883622,Y,"LearnlibEQOracle(wp,1)",L*M,1,10,0,Hv09
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682885811,Y,"LearnlibEQOracle(wp,1)",L*M,1,9,5,8WpA
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682885811,Y,"LearnlibEQOracle(wp,1)",L*M,2,10,8,8WpA
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682885811,Y,"LearnlibEQOracle(wp,1)",L*M,3,11,7,8WpA
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682885811,Y,"LearnlibEQOracle(wp,1)",L*M,4,13,8,8WpA
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682885811,Y,"LearnlibEQOracle(wp,1)",L*M,5,15,7,8WpA
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682885811,Y,"LearnlibEQOracle(wp,1)",L*M,6,16,6,8WpA
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682885811,Y,"LearnlibEQOracle(wp,1)",L*M,7,24,10,8WpA
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682885811,Y,"LearnlibEQOracle(wp,1)",L*M,8,25,9,8WpA
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682885811,Y,"LearnlibEQOracle(wp,1)",L*M,9,26,11,8WpA
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682885811,Y,"LearnlibEQOracle(wp,1)",L*M,10,27,6,8WpA
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682885811,Y,"LearnlibEQOracle(wp,1)",L*M,11,28,8,8WpA
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682885811,Y,"LearnlibEQOracle(wp,1)",L*M,12,36,11,8WpA
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682885811,Y,"LearnlibEQOracle(wp,1)",L*M,13,37,10,8WpA
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682885811,Y,"LearnlibEQOracle(wp,1)",L*M,14,41,13,8WpA
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682885811,Y,"LearnlibEQOracle(wp,1)",L*M,15,42,11,8WpA
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682885811,Y,"LearnlibEQOracle(wp,1)",L*M,16,43,13,8WpA
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682885811,Y,"LearnlibEQOracle(wp,1)",L*M,17,46,14,8WpA
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682885811,Y,"LearnlibEQOracle(wp,1)",L*M,18,50,17,8WpA
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682885811,Y,"LearnlibEQOracle(wp,1)",L*M,19,51,16,8WpA
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682885811,Y,"LearnlibEQOracle(wp,1)",L*M,20,52,10,8WpA
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682885811,Y,"LearnlibEQOracle(wp,1)",L*M,21,53,15,8WpA
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682885811,Y,"LearnlibEQOracle(wp,1)",L*M,22,54,9,8WpA
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682885811,Y,"LearnlibEQOracle(wp,1)",L*M,23,55,0,8WpA
+CloseFirst,RivestSchapire,TCP_Linux_Client.dot,1642682885906,Y,"LearnlibEQOracle(wp,1)",L*M,1,13,5,3KwY
+CloseFirst,RivestSchapire,TCP_Linux_Client.dot,1642682885906,Y,"LearnlibEQOracle(wp,1)",L*M,2,14,5,3KwY
+CloseFirst,RivestSchapire,TCP_Linux_Client.dot,1642682885906,Y,"LearnlibEQOracle(wp,1)",L*M,3,15,0,3KwY
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682885912,Y,"LearnlibEQOracle(wp,1)",L*M,1,15,5,jMo7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682885912,Y,"LearnlibEQOracle(wp,1)",L*M,2,16,8,jMo7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682885912,Y,"LearnlibEQOracle(wp,1)",L*M,3,17,5,jMo7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682885912,Y,"LearnlibEQOracle(wp,1)",L*M,4,19,9,jMo7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682885912,Y,"LearnlibEQOracle(wp,1)",L*M,5,20,9,jMo7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682885912,Y,"LearnlibEQOracle(wp,1)",L*M,6,21,10,jMo7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682885912,Y,"LearnlibEQOracle(wp,1)",L*M,7,26,7,jMo7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682885912,Y,"LearnlibEQOracle(wp,1)",L*M,8,28,10,jMo7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682885912,Y,"LearnlibEQOracle(wp,1)",L*M,9,29,8,jMo7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682885912,Y,"LearnlibEQOracle(wp,1)",L*M,10,30,8,jMo7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682885912,Y,"LearnlibEQOracle(wp,1)",L*M,11,33,11,jMo7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682885912,Y,"LearnlibEQOracle(wp,1)",L*M,12,34,11,jMo7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682885912,Y,"LearnlibEQOracle(wp,1)",L*M,13,35,11,jMo7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682885912,Y,"LearnlibEQOracle(wp,1)",L*M,14,36,9,jMo7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682885912,Y,"LearnlibEQOracle(wp,1)",L*M,15,38,10,jMo7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682885912,Y,"LearnlibEQOracle(wp,1)",L*M,16,43,10,jMo7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682885912,Y,"LearnlibEQOracle(wp,1)",L*M,17,44,14,jMo7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682885912,Y,"LearnlibEQOracle(wp,1)",L*M,18,49,14,jMo7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682885912,Y,"LearnlibEQOracle(wp,1)",L*M,19,50,14,jMo7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682885912,Y,"LearnlibEQOracle(wp,1)",L*M,20,51,14,jMo7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682885912,Y,"LearnlibEQOracle(wp,1)",L*M,21,52,16,jMo7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682885912,Y,"LearnlibEQOracle(wp,1)",L*M,22,54,11,jMo7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682885912,Y,"LearnlibEQOracle(wp,1)",L*M,23,55,8,jMo7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682885912,Y,"LearnlibEQOracle(wp,1)",L*M,24,57,0,jMo7
+CloseFirst,RivestSchapire,TCP_Windows8_Client.dot,1642682885919,Y,"LearnlibEQOracle(wp,1)",L*M,1,11,5,3TCx
+CloseFirst,RivestSchapire,TCP_Windows8_Client.dot,1642682885919,Y,"LearnlibEQOracle(wp,1)",L*M,2,13,0,3TCx
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682888261,Y,"LearnlibEQOracle(wp,1)",L*M,1,13,7,u0S7
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682888261,Y,"LearnlibEQOracle(wp,1)",L*M,2,15,5,u0S7
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682888261,Y,"LearnlibEQOracle(wp,1)",L*M,3,16,8,u0S7
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682888261,Y,"LearnlibEQOracle(wp,1)",L*M,4,18,7,u0S7
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682888261,Y,"LearnlibEQOracle(wp,1)",L*M,5,20,10,u0S7
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682888261,Y,"LearnlibEQOracle(wp,1)",L*M,6,22,7,u0S7
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682888261,Y,"LearnlibEQOracle(wp,1)",L*M,7,27,5,u0S7
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682888261,Y,"LearnlibEQOracle(wp,1)",L*M,8,29,6,u0S7
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682888261,Y,"LearnlibEQOracle(wp,1)",L*M,9,30,10,u0S7
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682888261,Y,"LearnlibEQOracle(wp,1)",L*M,10,31,9,u0S7
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682888261,Y,"LearnlibEQOracle(wp,1)",L*M,11,34,11,u0S7
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682888261,Y,"LearnlibEQOracle(wp,1)",L*M,12,36,12,u0S7
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682888261,Y,"LearnlibEQOracle(wp,1)",L*M,13,37,6,u0S7
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682888261,Y,"LearnlibEQOracle(wp,1)",L*M,14,38,0,u0S7
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682888423,Y,"SouchaCTT(hsi,1)",L*M,1,9,3,Y1KX
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682888423,Y,"SouchaCTT(hsi,1)",L*M,2,10,5,Y1KX
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682888423,Y,"SouchaCTT(hsi,1)",L*M,3,11,5,Y1KX
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682888423,Y,"SouchaCTT(hsi,1)",L*M,4,13,6,Y1KX
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682888423,Y,"SouchaCTT(hsi,1)",L*M,5,19,6,Y1KX
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682888423,Y,"SouchaCTT(hsi,1)",L*M,6,20,8,Y1KX
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682888423,Y,"SouchaCTT(hsi,1)",L*M,7,27,8,Y1KX
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682888423,Y,"SouchaCTT(hsi,1)",L*M,8,31,8,Y1KX
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682888423,Y,"SouchaCTT(hsi,1)",L*M,9,32,7,Y1KX
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682888423,Y,"SouchaCTT(hsi,1)",L*M,10,34,10,Y1KX
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682888423,Y,"SouchaCTT(hsi,1)",L*M,11,35,10,Y1KX
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682888423,Y,"SouchaCTT(hsi,1)",L*M,12,39,10,Y1KX
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682888423,Y,"SouchaCTT(hsi,1)",L*M,13,40,11,Y1KX
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682888423,Y,"SouchaCTT(hsi,1)",L*M,14,41,11,Y1KX
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682888423,Y,"SouchaCTT(hsi,1)",L*M,15,42,11,Y1KX
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682888423,Y,"SouchaCTT(hsi,1)",L*M,16,44,13,Y1KX
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682888423,Y,"SouchaCTT(hsi,1)",L*M,17,52,13,Y1KX
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682888423,Y,"SouchaCTT(hsi,1)",L*M,18,53,15,Y1KX
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682888423,Y,"SouchaCTT(hsi,1)",L*M,19,54,16,Y1KX
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682888423,Y,"SouchaCTT(hsi,1)",L*M,20,55,0,Y1KX
+CloseFirst,RivestSchapire,TCP_FreeBSD_Client.dot,1642682888506,Y,"SouchaCTT(hsi,1)",L*M,1,10,0,p3Zv
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682888507,Y,"SouchaCTT(hsi,1)",L*M,1,15,3,KxA7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682888507,Y,"SouchaCTT(hsi,1)",L*M,2,16,5,KxA7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682888507,Y,"SouchaCTT(hsi,1)",L*M,3,17,5,KxA7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682888507,Y,"SouchaCTT(hsi,1)",L*M,4,19,5,KxA7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682888507,Y,"SouchaCTT(hsi,1)",L*M,5,21,7,KxA7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682888507,Y,"SouchaCTT(hsi,1)",L*M,6,22,8,KxA7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682888507,Y,"SouchaCTT(hsi,1)",L*M,7,23,8,KxA7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682888507,Y,"SouchaCTT(hsi,1)",L*M,8,26,9,KxA7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682888507,Y,"SouchaCTT(hsi,1)",L*M,9,39,9,KxA7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682888507,Y,"SouchaCTT(hsi,1)",L*M,10,41,10,KxA7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682888507,Y,"SouchaCTT(hsi,1)",L*M,11,46,10,KxA7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682888507,Y,"SouchaCTT(hsi,1)",L*M,12,47,10,KxA7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682888507,Y,"SouchaCTT(hsi,1)",L*M,13,49,14,KxA7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682888507,Y,"SouchaCTT(hsi,1)",L*M,14,50,14,KxA7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682888507,Y,"SouchaCTT(hsi,1)",L*M,15,53,14,KxA7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682888507,Y,"SouchaCTT(hsi,1)",L*M,16,55,15,KxA7
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682888507,Y,"SouchaCTT(hsi,1)",L*M,17,57,0,KxA7
+CloseFirst,RivestSchapire,TCP_Linux_Client.dot,1642682888544,Y,"SouchaCTT(hsi,1)",L*M,1,13,5,IV15
+CloseFirst,RivestSchapire,TCP_Linux_Client.dot,1642682888544,Y,"SouchaCTT(hsi,1)",L*M,2,14,5,IV15
+CloseFirst,RivestSchapire,TCP_Linux_Client.dot,1642682888544,Y,"SouchaCTT(hsi,1)",L*M,3,15,0,IV15
+CloseFirst,RivestSchapire,TCP_Windows8_Client.dot,1642682889235,Y,"SouchaCTT(hsi,1)",L*M,1,11,5,zF5A
+CloseFirst,RivestSchapire,TCP_Windows8_Client.dot,1642682889235,Y,"SouchaCTT(hsi,1)",L*M,2,13,0,zF5A
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682889346,Y,"SouchaCTT(hsi,1)",L*M,1,13,3,wOx2
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682889346,Y,"SouchaCTT(hsi,1)",L*M,2,14,5,wOx2
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682889346,Y,"SouchaCTT(hsi,1)",L*M,3,17,5,wOx2
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682889346,Y,"SouchaCTT(hsi,1)",L*M,4,19,5,wOx2
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682889346,Y,"SouchaCTT(hsi,1)",L*M,5,21,6,wOx2
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682889346,Y,"SouchaCTT(hsi,1)",L*M,6,22,9,wOx2
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682889346,Y,"SouchaCTT(hsi,1)",L*M,7,23,9,wOx2
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682889346,Y,"SouchaCTT(hsi,1)",L*M,8,26,9,wOx2
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682889346,Y,"SouchaCTT(hsi,1)",L*M,9,35,10,wOx2
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682889346,Y,"SouchaCTT(hsi,1)",L*M,10,37,11,wOx2
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682889346,Y,"SouchaCTT(hsi,1)",L*M,11,38,0,wOx2
+CloseFirst,RivestSchapire,TCP_FreeBSD_Client.dot,1642682890776,Y,"SouchaCTT(spy,1)",L*M,1,10,8,4GUt
+CloseFirst,RivestSchapire,TCP_FreeBSD_Client.dot,1642682890776,Y,"SouchaCTT(spy,1)",L*M,2,12,0,4GUt
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682891471,Y,"SouchaCTT(spy,1)",L*M,1,9,6,EVx4
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682891471,Y,"SouchaCTT(spy,1)",L*M,2,10,7,EVx4
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682891471,Y,"SouchaCTT(spy,1)",L*M,3,12,7,EVx4
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682891471,Y,"SouchaCTT(spy,1)",L*M,4,15,7,EVx4
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682891471,Y,"SouchaCTT(spy,1)",L*M,5,24,8,EVx4
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682891471,Y,"SouchaCTT(spy,1)",L*M,6,26,8,EVx4
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682891471,Y,"SouchaCTT(spy,1)",L*M,7,27,9,EVx4
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682891471,Y,"SouchaCTT(spy,1)",L*M,8,35,10,EVx4
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682891471,Y,"SouchaCTT(spy,1)",L*M,9,36,10,EVx4
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682891471,Y,"SouchaCTT(spy,1)",L*M,10,40,10,EVx4
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682891471,Y,"SouchaCTT(spy,1)",L*M,11,41,11,EVx4
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682891471,Y,"SouchaCTT(spy,1)",L*M,12,42,11,EVx4
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682891471,Y,"SouchaCTT(spy,1)",L*M,13,43,12,EVx4
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682891471,Y,"SouchaCTT(spy,1)",L*M,14,44,13,EVx4
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682891471,Y,"SouchaCTT(spy,1)",L*M,15,52,13,EVx4
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682891471,Y,"SouchaCTT(spy,1)",L*M,16,53,15,EVx4
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682891471,Y,"SouchaCTT(spy,1)",L*M,17,54,16,EVx4
+CloseFirst,RivestSchapire,TCP_FreeBSD_Server.dot,1642682891471,Y,"SouchaCTT(spy,1)",L*M,18,55,0,EVx4
+CloseFirst,RivestSchapire,TCP_Linux_Client.dot,1642682891658,Y,"SouchaCTT(spy,1)",L*M,1,13,7,3dsS
+CloseFirst,RivestSchapire,TCP_Linux_Client.dot,1642682891658,Y,"SouchaCTT(spy,1)",L*M,2,14,13,3dsS
+CloseFirst,RivestSchapire,TCP_Linux_Client.dot,1642682891658,Y,"SouchaCTT(spy,1)",L*M,3,15,0,3dsS
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682892041,Y,"SouchaCTT(spy,1)",L*M,1,15,6,6IHi
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682892041,Y,"SouchaCTT(spy,1)",L*M,2,16,7,6IHi
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682892041,Y,"SouchaCTT(spy,1)",L*M,3,24,8,6IHi
+CloseFirst,RivestSchapire,TCP_Linux_Server.dot,1642682892041,Y,"SouchaCTT(spy,1)",L*M,4,26,0,6IHi
+CloseFirst,RivestSchapire,TCP_Windows8_Client.dot,1642682893271,Y,"SouchaCTT(spy,1)",L*M,1,11,6,T30d
+CloseFirst,RivestSchapire,TCP_Windows8_Client.dot,1642682893271,Y,"SouchaCTT(spy,1)",L*M,2,13,0,T30d
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682894856,Y,"SouchaCTT(spy,1)",L*M,1,13,6,q1TQ
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682894856,Y,"SouchaCTT(spy,1)",L*M,2,14,6,q1TQ
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682894856,Y,"SouchaCTT(spy,1)",L*M,3,15,7,q1TQ
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682894856,Y,"SouchaCTT(spy,1)",L*M,4,20,8,q1TQ
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682894856,Y,"SouchaCTT(spy,1)",L*M,5,25,7,q1TQ
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682894856,Y,"SouchaCTT(spy,1)",L*M,6,27,9,q1TQ
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682894856,Y,"SouchaCTT(spy,1)",L*M,7,29,10,q1TQ
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682894856,Y,"SouchaCTT(spy,1)",L*M,8,33,10,q1TQ
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682894856,Y,"SouchaCTT(spy,1)",L*M,9,35,11,q1TQ
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682894856,Y,"SouchaCTT(spy,1)",L*M,10,36,12,q1TQ
+CloseFirst,RivestSchapire,TCP_Windows8_Server.dot,1642682894856,Y,"SouchaCTT(spy,1)",L*M,11,38,0,q1TQ
