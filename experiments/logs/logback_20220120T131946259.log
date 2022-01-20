@@ -1,0 +1,21 @@
+2022-01-20 13:19:46 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:19:46 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:19:46 INFO Benchmarking |SUL name: QUICprotocolwithout0RTT.dot
+2022-01-20 13:19:46 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/QUICprotocol/QUICprotocolwithout0RTT.dot
+2022-01-20 13:19:46 INFO Benchmarking |Seed: 1642681186250
+2022-01-20 13:19:46 INFO Benchmarking |Cache: Y
+2022-01-20 13:19:46 INFO SouchaCTT |EquivalenceOracle: SouchaCTT: {Technique=spy;ExtraStates=1;}
+2022-01-20 13:19:46 INFO Benchmarking |EquivalenceOracle: SouchaCTT(spy,1)
+2022-01-20 13:19:46 INFO Benchmarking |Method: L*M
+2022-01-20 13:19:46 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':5,'CESize':0}
+2022-01-20 13:19:46 INFO Benchmarking |Rounds: 1
+2022-01-20 13:19:46 INFO Benchmarking |MQ [Resets]: 84
+2022-01-20 13:19:46 INFO Benchmarking |MQ [Symbols]: 244
+2022-01-20 13:19:46 INFO Benchmarking |EQ [Resets]: 67
+2022-01-20 13:19:46 INFO Benchmarking |EQ [Symbols]: 387
+2022-01-20 13:19:46 INFO SimpleProfiler |Learning [ms]: 10
+2022-01-20 13:19:46 INFO SimpleProfiler |Searching for counterexample [ms]: 33
+2022-01-20 13:19:46 INFO Benchmarking |Qsize: 5
+2022-01-20 13:19:46 INFO Benchmarking |Isize: 4
+2022-01-20 13:19:46 INFO Benchmarking |Equivalent: OK
+2022-01-20 13:19:46 INFO Benchmarking |Info: N/A

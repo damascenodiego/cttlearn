@@ -1,0 +1,27 @@
+2022-01-20 13:20:31 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:20:31 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:20:31 INFO Benchmarking |SUL name: pion_ecdhe_cert_req.dot
+2022-01-20 13:20:31 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/DTLS/pion_ecdhe_cert_req.dot
+2022-01-20 13:20:31 INFO Benchmarking |Seed: 1642681230972
+2022-01-20 13:20:31 INFO Benchmarking |Cache: Y
+2022-01-20 13:20:31 INFO Benchmarking |EquivalenceOracle: LearnlibEQOracle(wp,2)
+2022-01-20 13:20:31 INFO Benchmarking |Method: L*M
+2022-01-20 13:20:31 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':5,'CESize':5}
+2022-01-20 13:20:31 INFO EQWrapperHypSize |EQStats:{'Iter':2,'HypSize':29,'CESize':6}
+2022-01-20 13:20:31 INFO EQWrapperHypSize |EQStats:{'Iter':3,'HypSize':32,'CESize':7}
+2022-01-20 13:20:31 INFO EQWrapperHypSize |EQStats:{'Iter':4,'HypSize':44,'CESize':7}
+2022-01-20 13:20:31 INFO EQWrapperHypSize |EQStats:{'Iter':5,'HypSize':51,'CESize':9}
+2022-01-20 13:20:31 INFO EQWrapperHypSize |EQStats:{'Iter':6,'HypSize':57,'CESize':10}
+2022-01-20 13:20:31 INFO EQWrapperHypSize |EQStats:{'Iter':7,'HypSize':65,'CESize':7}
+2022-01-20 13:20:32 INFO EQWrapperHypSize |EQStats:{'Iter':8,'HypSize':66,'CESize':0}
+2022-01-20 13:20:32 INFO Benchmarking |Rounds: 8
+2022-01-20 13:20:32 INFO Benchmarking |MQ [Resets]: 10765
+2022-01-20 13:20:32 INFO Benchmarking |MQ [Symbols]: 80601
+2022-01-20 13:20:32 INFO Benchmarking |EQ [Resets]: 204668
+2022-01-20 13:20:32 INFO Benchmarking |EQ [Symbols]: 1807338
+2022-01-20 13:20:32 INFO SimpleProfiler |Learning [ms]: 149
+2022-01-20 13:20:32 INFO SimpleProfiler |Searching for counterexample [ms]: 1120
+2022-01-20 13:20:32 INFO Benchmarking |Qsize: 66
+2022-01-20 13:20:32 INFO Benchmarking |Isize: 10
+2022-01-20 13:20:32 INFO Benchmarking |Equivalent: OK
+2022-01-20 13:20:32 INFO Benchmarking |Info: N/A

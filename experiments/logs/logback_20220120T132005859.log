@@ -1,0 +1,22 @@
+2022-01-20 13:20:06 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:20:06 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:20:06 INFO Benchmarking |SUL name: scandium-2.0.0_psk.dot
+2022-01-20 13:20:06 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/DTLS/scandium-2.0.0_psk.dot
+2022-01-20 13:20:06 INFO Benchmarking |Seed: 1642681205846
+2022-01-20 13:20:06 INFO Benchmarking |Cache: Y
+2022-01-20 13:20:06 INFO Benchmarking |EquivalenceOracle: LearnlibEQOracle(w,2)
+2022-01-20 13:20:06 INFO Benchmarking |Method: L*M
+2022-01-20 13:20:06 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':12,'CESize':6}
+2022-01-20 13:20:06 INFO EQWrapperHypSize |EQStats:{'Iter':2,'HypSize':14,'CESize':7}
+2022-01-20 13:20:06 INFO EQWrapperHypSize |EQStats:{'Iter':3,'HypSize':16,'CESize':0}
+2022-01-20 13:20:06 INFO Benchmarking |Rounds: 3
+2022-01-20 13:20:06 INFO Benchmarking |MQ [Resets]: 985
+2022-01-20 13:20:06 INFO Benchmarking |MQ [Symbols]: 5847
+2022-01-20 13:20:06 INFO Benchmarking |EQ [Resets]: 37226
+2022-01-20 13:20:06 INFO Benchmarking |EQ [Symbols]: 297745
+2022-01-20 13:20:06 INFO SimpleProfiler |Learning [ms]: 87
+2022-01-20 13:20:06 INFO SimpleProfiler |Searching for counterexample [ms]: 462
+2022-01-20 13:20:06 INFO Benchmarking |Qsize: 16
+2022-01-20 13:20:06 INFO Benchmarking |Isize: 7
+2022-01-20 13:20:06 INFO Benchmarking |Equivalent: OK
+2022-01-20 13:20:06 INFO Benchmarking |Info: N/A

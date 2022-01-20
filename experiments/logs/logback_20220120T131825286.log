@@ -1,0 +1,20 @@
+2022-01-20 13:18:25 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:18:25 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:18:25 INFO Benchmarking |SUL name: TCP_Windows8_Server.dot
+2022-01-20 13:18:25 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/TCP/TCP_Windows8_Server.dot
+2022-01-20 13:18:25 INFO Benchmarking |Seed: 1642681105270
+2022-01-20 13:18:25 INFO Benchmarking |Cache: Y
+2022-01-20 13:18:25 INFO Benchmarking |EquivalenceOracle: LearnlibEQOracle(wp,0)
+2022-01-20 13:18:25 INFO Benchmarking |Method: L*M
+2022-01-20 13:18:25 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':13,'CESize':0}
+2022-01-20 13:18:25 INFO Benchmarking |Rounds: 1
+2022-01-20 13:18:25 INFO Benchmarking |MQ [Resets]: 2210
+2022-01-20 13:18:25 INFO Benchmarking |MQ [Symbols]: 12519
+2022-01-20 13:18:25 INFO Benchmarking |EQ [Resets]: 435
+2022-01-20 13:18:25 INFO Benchmarking |EQ [Symbols]: 2446
+2022-01-20 13:18:25 INFO SimpleProfiler |Learning [ms]: 49
+2022-01-20 13:18:25 INFO SimpleProfiler |Searching for counterexample [ms]: 51
+2022-01-20 13:18:25 INFO Benchmarking |Qsize: 38
+2022-01-20 13:18:25 INFO Benchmarking |Isize: 13
+2022-01-20 13:18:25 INFO Benchmarking |Equivalent: NOK
+2022-01-20 13:18:25 INFO Benchmarking |Info: N/A

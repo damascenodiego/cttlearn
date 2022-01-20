@@ -1,0 +1,33 @@
+2022-01-20 13:32:36 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:32:36 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:32:36 INFO Benchmarking |SUL name: TCP_Windows8_Server.dot
+2022-01-20 13:32:36 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/TCP/TCP_Windows8_Server.dot
+2022-01-20 13:32:36 INFO Benchmarking |Seed: 1642681955937
+2022-01-20 13:32:36 INFO Benchmarking |Cache: Y
+2022-01-20 13:32:36 INFO SouchaCTT |EquivalenceOracle: SouchaCTT: {Technique=spy;ExtraStates=2;}
+2022-01-20 13:32:36 INFO Benchmarking |EquivalenceOracle: SouchaCTT(spy,2)
+2022-01-20 13:32:36 INFO Benchmarking |Method: L*M
+2022-01-20 13:32:51 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':13,'CESize':7}
+2022-01-20 13:33:17 INFO EQWrapperHypSize |EQStats:{'Iter':2,'HypSize':14,'CESize':7}
+2022-01-20 13:33:50 INFO EQWrapperHypSize |EQStats:{'Iter':3,'HypSize':15,'CESize':7}
+2022-01-20 13:34:26 INFO EQWrapperHypSize |EQStats:{'Iter':4,'HypSize':16,'CESize':7}
+2022-01-20 13:35:12 INFO EQWrapperHypSize |EQStats:{'Iter':5,'HypSize':18,'CESize':8}
+2022-01-20 13:36:04 INFO EQWrapperHypSize |EQStats:{'Iter':6,'HypSize':23,'CESize':8}
+2022-01-20 13:37:03 INFO EQWrapperHypSize |EQStats:{'Iter':7,'HypSize':27,'CESize':9}
+2022-01-20 13:38:05 INFO EQWrapperHypSize |EQStats:{'Iter':8,'HypSize':28,'CESize':9}
+2022-01-20 13:39:30 INFO EQWrapperHypSize |EQStats:{'Iter':9,'HypSize':29,'CESize':9}
+2022-01-20 13:41:44 INFO EQWrapperHypSize |EQStats:{'Iter':10,'HypSize':33,'CESize':10}
+2022-01-20 13:43:57 INFO EQWrapperHypSize |EQStats:{'Iter':11,'HypSize':35,'CESize':11}
+2022-01-20 13:46:35 INFO EQWrapperHypSize |EQStats:{'Iter':12,'HypSize':36,'CESize':11}
+2022-01-20 13:49:12 INFO EQWrapperHypSize |EQStats:{'Iter':13,'HypSize':38,'CESize':0}
+2022-01-20 13:49:12 INFO Benchmarking |Rounds: 13
+2022-01-20 13:49:12 INFO Benchmarking |MQ [Resets]: 12152
+2022-01-20 13:49:12 INFO Benchmarking |MQ [Symbols]: 97466
+2022-01-20 13:49:12 INFO Benchmarking |EQ [Resets]: 278398
+2022-01-20 13:49:12 INFO Benchmarking |EQ [Symbols]: 2974006
+2022-01-20 13:49:12 INFO SimpleProfiler |Learning [ms]: 76
+2022-01-20 13:49:12 INFO SimpleProfiler |Searching for counterexample [ms]: 996411
+2022-01-20 13:49:12 INFO Benchmarking |Qsize: 38
+2022-01-20 13:49:12 INFO Benchmarking |Isize: 13
+2022-01-20 13:49:12 INFO Benchmarking |Equivalent: OK
+2022-01-20 13:49:12 INFO Benchmarking |Info: N/A

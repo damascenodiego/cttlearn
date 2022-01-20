@@ -1,0 +1,28 @@
+2022-01-20 13:19:17 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:19:17 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:19:17 INFO Benchmarking |SUL name: scandium-2.0.0_ecdhe_cert_nreq.dot
+2022-01-20 13:19:17 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/DTLS/scandium-2.0.0_ecdhe_cert_nreq.dot
+2022-01-20 13:19:17 INFO Benchmarking |Seed: 1642681157546
+2022-01-20 13:19:17 INFO Benchmarking |Cache: Y
+2022-01-20 13:19:17 INFO SouchaCTT |EquivalenceOracle: SouchaCTT: {Technique=hsi;ExtraStates=1;}
+2022-01-20 13:19:17 INFO Benchmarking |EquivalenceOracle: SouchaCTT(hsi,1)
+2022-01-20 13:19:17 INFO Benchmarking |Method: L*M
+2022-01-20 13:19:17 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':17,'CESize':4}
+2022-01-20 13:19:18 INFO EQWrapperHypSize |EQStats:{'Iter':2,'HypSize':18,'CESize':5}
+2022-01-20 13:19:18 INFO EQWrapperHypSize |EQStats:{'Iter':3,'HypSize':21,'CESize':5}
+2022-01-20 13:19:18 INFO EQWrapperHypSize |EQStats:{'Iter':4,'HypSize':25,'CESize':6}
+2022-01-20 13:19:18 INFO EQWrapperHypSize |EQStats:{'Iter':5,'HypSize':34,'CESize':7}
+2022-01-20 13:19:18 INFO EQWrapperHypSize |EQStats:{'Iter':6,'HypSize':37,'CESize':7}
+2022-01-20 13:19:19 INFO EQWrapperHypSize |EQStats:{'Iter':7,'HypSize':40,'CESize':9}
+2022-01-20 13:19:19 INFO EQWrapperHypSize |EQStats:{'Iter':8,'HypSize':41,'CESize':0}
+2022-01-20 13:19:19 INFO Benchmarking |Rounds: 8
+2022-01-20 13:19:19 INFO Benchmarking |MQ [Resets]: 6693
+2022-01-20 13:19:19 INFO Benchmarking |MQ [Symbols]: 47058
+2022-01-20 13:19:19 INFO Benchmarking |EQ [Resets]: 13858
+2022-01-20 13:19:19 INFO Benchmarking |EQ [Symbols]: 107789
+2022-01-20 13:19:19 INFO SimpleProfiler |Learning [ms]: 76
+2022-01-20 13:19:19 INFO SimpleProfiler |Searching for counterexample [ms]: 1528
+2022-01-20 13:19:19 INFO Benchmarking |Qsize: 45
+2022-01-20 13:19:19 INFO Benchmarking |Isize: 10
+2022-01-20 13:19:19 INFO Benchmarking |Equivalent: NOK
+2022-01-20 13:19:19 INFO Benchmarking |Info: N/A

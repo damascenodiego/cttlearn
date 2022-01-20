@@ -1,0 +1,22 @@
+2022-01-20 13:19:46 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:19:46 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:19:46 INFO Benchmarking |SUL name: OpenSSH.dot
+2022-01-20 13:19:46 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/SSH/OpenSSH.dot
+2022-01-20 13:19:46 INFO Benchmarking |Seed: 1642681186551
+2022-01-20 13:19:46 INFO Benchmarking |Cache: Y
+2022-01-20 13:19:46 INFO SouchaCTT |EquivalenceOracle: SouchaCTT: {Technique=spy;ExtraStates=1;}
+2022-01-20 13:19:46 INFO Benchmarking |EquivalenceOracle: SouchaCTT(spy,1)
+2022-01-20 13:19:46 INFO Benchmarking |Method: L*M
+2022-01-20 13:19:49 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':25,'CESize':11}
+2022-01-20 13:19:49 INFO EQWrapperHypSize |EQStats:{'Iter':2,'HypSize':27,'CESize':0}
+2022-01-20 13:19:49 INFO Benchmarking |Rounds: 2
+2022-01-20 13:19:49 INFO Benchmarking |MQ [Resets]: 13684
+2022-01-20 13:19:49 INFO Benchmarking |MQ [Symbols]: 74670
+2022-01-20 13:19:49 INFO Benchmarking |EQ [Resets]: 15773
+2022-01-20 13:19:49 INFO Benchmarking |EQ [Symbols]: 116851
+2022-01-20 13:19:49 INFO SimpleProfiler |Learning [ms]: 143
+2022-01-20 13:19:49 INFO SimpleProfiler |Searching for counterexample [ms]: 2700
+2022-01-20 13:19:49 INFO Benchmarking |Qsize: 31
+2022-01-20 13:19:49 INFO Benchmarking |Isize: 22
+2022-01-20 13:19:49 INFO Benchmarking |Equivalent: NOK
+2022-01-20 13:19:49 INFO Benchmarking |Info: N/A

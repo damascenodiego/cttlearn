@@ -1,0 +1,21 @@
+2022-01-20 13:20:46 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:20:46 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:20:46 INFO Benchmarking |SUL name: learnresult_fix.dot
+2022-01-20 13:20:46 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/Bankcard/learnresult_fix.dot
+2022-01-20 13:20:46 INFO Benchmarking |Seed: 1642681246486
+2022-01-20 13:20:46 INFO Benchmarking |Cache: Y
+2022-01-20 13:20:46 INFO SouchaCTT |EquivalenceOracle: SouchaCTT: {Technique=hsi;ExtraStates=2;}
+2022-01-20 13:20:46 INFO Benchmarking |EquivalenceOracle: SouchaCTT(hsi,2)
+2022-01-20 13:20:46 INFO Benchmarking |Method: L*M
+2022-01-20 13:20:49 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':9,'CESize':0}
+2022-01-20 13:20:49 INFO Benchmarking |Rounds: 1
+2022-01-20 13:20:49 INFO Benchmarking |MQ [Resets]: 2040
+2022-01-20 13:20:49 INFO Benchmarking |MQ [Symbols]: 9015
+2022-01-20 13:20:49 INFO Benchmarking |EQ [Resets]: 80237
+2022-01-20 13:20:49 INFO Benchmarking |EQ [Symbols]: 534248
+2022-01-20 13:20:49 INFO SimpleProfiler |Learning [ms]: 44
+2022-01-20 13:20:49 INFO SimpleProfiler |Searching for counterexample [ms]: 2472
+2022-01-20 13:20:49 INFO Benchmarking |Qsize: 9
+2022-01-20 13:20:49 INFO Benchmarking |Isize: 15
+2022-01-20 13:20:49 INFO Benchmarking |Equivalent: OK
+2022-01-20 13:20:49 INFO Benchmarking |Info: N/A

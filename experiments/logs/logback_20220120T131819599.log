@@ -1,0 +1,20 @@
+2022-01-20 13:18:19 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:18:19 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:18:19 INFO Benchmarking |SUL name: 4_learnresult_PIN_fix.dot
+2022-01-20 13:18:19 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/Bankcard/4_learnresult_PIN_fix.dot
+2022-01-20 13:18:19 INFO Benchmarking |Seed: 1642681099590
+2022-01-20 13:18:19 INFO Benchmarking |Cache: Y
+2022-01-20 13:18:19 INFO Benchmarking |EquivalenceOracle: LearnlibEQOracle(wp,0)
+2022-01-20 13:18:19 INFO Benchmarking |Method: L*M
+2022-01-20 13:18:19 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':6,'CESize':0}
+2022-01-20 13:18:19 INFO Benchmarking |Rounds: 1
+2022-01-20 13:18:19 INFO Benchmarking |MQ [Resets]: 1190
+2022-01-20 13:18:19 INFO Benchmarking |MQ [Symbols]: 4718
+2022-01-20 13:18:19 INFO Benchmarking |EQ [Resets]: 158
+2022-01-20 13:18:19 INFO Benchmarking |EQ [Symbols]: 647
+2022-01-20 13:18:19 INFO SimpleProfiler |Learning [ms]: 26
+2022-01-20 13:18:19 INFO SimpleProfiler |Searching for counterexample [ms]: 39
+2022-01-20 13:18:19 INFO Benchmarking |Qsize: 6
+2022-01-20 13:18:19 INFO Benchmarking |Isize: 14
+2022-01-20 13:18:19 INFO Benchmarking |Equivalent: OK
+2022-01-20 13:18:19 INFO Benchmarking |Info: N/A

@@ -1,0 +1,32 @@
+2022-01-20 13:18:54 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:18:54 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:18:54 INFO Benchmarking |SUL name: TCP_Windows8_Server.dot
+2022-01-20 13:18:54 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/TCP/TCP_Windows8_Server.dot
+2022-01-20 13:18:54 INFO Benchmarking |Seed: 1642681134445
+2022-01-20 13:18:54 INFO Benchmarking |Cache: Y
+2022-01-20 13:18:54 INFO Benchmarking |EquivalenceOracle: LearnlibEQOracle(w,1)
+2022-01-20 13:18:54 INFO Benchmarking |Method: L*M
+2022-01-20 13:18:55 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':13,'CESize':7}
+2022-01-20 13:18:55 INFO EQWrapperHypSize |EQStats:{'Iter':2,'HypSize':15,'CESize':5}
+2022-01-20 13:18:55 INFO EQWrapperHypSize |EQStats:{'Iter':3,'HypSize':16,'CESize':8}
+2022-01-20 13:18:55 INFO EQWrapperHypSize |EQStats:{'Iter':4,'HypSize':18,'CESize':5}
+2022-01-20 13:18:55 INFO EQWrapperHypSize |EQStats:{'Iter':5,'HypSize':20,'CESize':10}
+2022-01-20 13:18:55 INFO EQWrapperHypSize |EQStats:{'Iter':6,'HypSize':22,'CESize':7}
+2022-01-20 13:18:55 INFO EQWrapperHypSize |EQStats:{'Iter':7,'HypSize':27,'CESize':6}
+2022-01-20 13:18:55 INFO EQWrapperHypSize |EQStats:{'Iter':8,'HypSize':29,'CESize':6}
+2022-01-20 13:18:55 INFO EQWrapperHypSize |EQStats:{'Iter':9,'HypSize':30,'CESize':10}
+2022-01-20 13:18:55 INFO EQWrapperHypSize |EQStats:{'Iter':10,'HypSize':34,'CESize':11}
+2022-01-20 13:18:55 INFO EQWrapperHypSize |EQStats:{'Iter':11,'HypSize':36,'CESize':11}
+2022-01-20 13:18:55 INFO EQWrapperHypSize |EQStats:{'Iter':12,'HypSize':37,'CESize':3}
+2022-01-20 13:18:55 INFO EQWrapperHypSize |EQStats:{'Iter':13,'HypSize':38,'CESize':0}
+2022-01-20 13:18:55 INFO Benchmarking |Rounds: 13
+2022-01-20 13:18:55 INFO Benchmarking |MQ [Resets]: 11913
+2022-01-20 13:18:55 INFO Benchmarking |MQ [Symbols]: 91915
+2022-01-20 13:18:55 INFO Benchmarking |EQ [Resets]: 81792
+2022-01-20 13:18:55 INFO Benchmarking |EQ [Symbols]: 733133
+2022-01-20 13:18:55 INFO SimpleProfiler |Learning [ms]: 187
+2022-01-20 13:18:55 INFO SimpleProfiler |Searching for counterexample [ms]: 797
+2022-01-20 13:18:55 INFO Benchmarking |Qsize: 38
+2022-01-20 13:18:55 INFO Benchmarking |Isize: 13
+2022-01-20 13:18:55 INFO Benchmarking |Equivalent: OK
+2022-01-20 13:18:55 INFO Benchmarking |Info: N/A

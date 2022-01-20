@@ -1,0 +1,22 @@
+2022-01-20 13:19:23 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:19:23 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:19:23 INFO Benchmarking |SUL name: DropBear.dot
+2022-01-20 13:19:23 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/SSH/DropBear.dot
+2022-01-20 13:19:23 INFO Benchmarking |Seed: 1642681162858
+2022-01-20 13:19:23 INFO Benchmarking |Cache: Y
+2022-01-20 13:19:23 INFO SouchaCTT |EquivalenceOracle: SouchaCTT: {Technique=hsi;ExtraStates=1;}
+2022-01-20 13:19:23 INFO Benchmarking |EquivalenceOracle: SouchaCTT(hsi,1)
+2022-01-20 13:19:23 INFO Benchmarking |Method: L*M
+2022-01-20 13:19:23 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':15,'CESize':6}
+2022-01-20 13:19:23 INFO EQWrapperHypSize |EQStats:{'Iter':2,'HypSize':17,'CESize':0}
+2022-01-20 13:19:23 INFO Benchmarking |Rounds: 2
+2022-01-20 13:19:23 INFO Benchmarking |MQ [Resets]: 3091
+2022-01-20 13:19:23 INFO Benchmarking |MQ [Symbols]: 17974
+2022-01-20 13:19:23 INFO Benchmarking |EQ [Resets]: 8308
+2022-01-20 13:19:23 INFO Benchmarking |EQ [Symbols]: 56599
+2022-01-20 13:19:23 INFO SimpleProfiler |Learning [ms]: 82
+2022-01-20 13:19:23 INFO SimpleProfiler |Searching for counterexample [ms]: 509
+2022-01-20 13:19:23 INFO Benchmarking |Qsize: 17
+2022-01-20 13:19:23 INFO Benchmarking |Isize: 13
+2022-01-20 13:19:23 INFO Benchmarking |Equivalent: OK
+2022-01-20 13:19:23 INFO Benchmarking |Info: N/A

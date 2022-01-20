@@ -1,0 +1,28 @@
+2022-01-20 13:20:01 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:20:01 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:20:01 INFO Benchmarking |SUL name: openssl-1.1.1b_all_cert_nreq.dot
+2022-01-20 13:20:01 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/DTLS/openssl-1.1.1b_all_cert_nreq.dot
+2022-01-20 13:20:01 INFO Benchmarking |Seed: 1642681201577
+2022-01-20 13:20:01 INFO Benchmarking |Cache: Y
+2022-01-20 13:20:01 INFO Benchmarking |EquivalenceOracle: LearnlibEQOracle(w,2)
+2022-01-20 13:20:01 INFO Benchmarking |Method: L*M
+2022-01-20 13:20:01 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':11,'CESize':4}
+2022-01-20 13:20:02 INFO EQWrapperHypSize |EQStats:{'Iter':2,'HypSize':15,'CESize':5}
+2022-01-20 13:20:02 INFO EQWrapperHypSize |EQStats:{'Iter':3,'HypSize':16,'CESize':8}
+2022-01-20 13:20:02 INFO EQWrapperHypSize |EQStats:{'Iter':4,'HypSize':17,'CESize':7}
+2022-01-20 13:20:02 INFO EQWrapperHypSize |EQStats:{'Iter':5,'HypSize':18,'CESize':6}
+2022-01-20 13:20:02 INFO EQWrapperHypSize |EQStats:{'Iter':6,'HypSize':19,'CESize':7}
+2022-01-20 13:20:02 INFO EQWrapperHypSize |EQStats:{'Iter':7,'HypSize':20,'CESize':5}
+2022-01-20 13:20:02 INFO EQWrapperHypSize |EQStats:{'Iter':8,'HypSize':21,'CESize':5}
+2022-01-20 13:20:04 INFO EQWrapperHypSize |EQStats:{'Iter':9,'HypSize':22,'CESize':0}
+2022-01-20 13:20:04 INFO Benchmarking |Rounds: 9
+2022-01-20 13:20:04 INFO Benchmarking |MQ [Resets]: 8293
+2022-01-20 13:20:04 INFO Benchmarking |MQ [Symbols]: 43771
+2022-01-20 13:20:04 INFO Benchmarking |EQ [Resets]: 1134673
+2022-01-20 13:20:04 INFO Benchmarking |EQ [Symbols]: 8628689
+2022-01-20 13:20:04 INFO SimpleProfiler |Learning [ms]: 86
+2022-01-20 13:20:04 INFO SimpleProfiler |Searching for counterexample [ms]: 2703
+2022-01-20 13:20:04 INFO Benchmarking |Qsize: 22
+2022-01-20 13:20:04 INFO Benchmarking |Isize: 16
+2022-01-20 13:20:04 INFO Benchmarking |Equivalent: OK
+2022-01-20 13:20:04 INFO Benchmarking |Info: N/A

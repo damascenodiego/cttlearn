@@ -1,0 +1,29 @@
+2022-01-20 13:20:25 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:20:25 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:20:25 INFO Benchmarking |SUL name: etinydtls_ecdhe_cert_none.dot
+2022-01-20 13:20:25 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/DTLS/etinydtls_ecdhe_cert_none.dot
+2022-01-20 13:20:25 INFO Benchmarking |Seed: 1642681225306
+2022-01-20 13:20:25 INFO Benchmarking |Cache: Y
+2022-01-20 13:20:25 INFO Benchmarking |EquivalenceOracle: LearnlibEQOracle(wp,2)
+2022-01-20 13:20:25 INFO Benchmarking |Method: L*M
+2022-01-20 13:20:25 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':9,'CESize':7}
+2022-01-20 13:20:25 INFO EQWrapperHypSize |EQStats:{'Iter':2,'HypSize':10,'CESize':6}
+2022-01-20 13:20:25 INFO EQWrapperHypSize |EQStats:{'Iter':3,'HypSize':11,'CESize':8}
+2022-01-20 13:20:25 INFO EQWrapperHypSize |EQStats:{'Iter':4,'HypSize':14,'CESize':6}
+2022-01-20 13:20:25 INFO EQWrapperHypSize |EQStats:{'Iter':5,'HypSize':15,'CESize':10}
+2022-01-20 13:20:26 INFO EQWrapperHypSize |EQStats:{'Iter':6,'HypSize':16,'CESize':8}
+2022-01-20 13:20:26 INFO EQWrapperHypSize |EQStats:{'Iter':7,'HypSize':19,'CESize':6}
+2022-01-20 13:20:26 INFO EQWrapperHypSize |EQStats:{'Iter':8,'HypSize':20,'CESize':6}
+2022-01-20 13:20:26 INFO EQWrapperHypSize |EQStats:{'Iter':9,'HypSize':21,'CESize':9}
+2022-01-20 13:20:26 INFO EQWrapperHypSize |EQStats:{'Iter':10,'HypSize':22,'CESize':0}
+2022-01-20 13:20:26 INFO Benchmarking |Rounds: 10
+2022-01-20 13:20:26 INFO Benchmarking |MQ [Resets]: 4022
+2022-01-20 13:20:26 INFO Benchmarking |MQ [Symbols]: 26263
+2022-01-20 13:20:26 INFO Benchmarking |EQ [Resets]: 71341
+2022-01-20 13:20:26 INFO Benchmarking |EQ [Symbols]: 612676
+2022-01-20 13:20:26 INFO SimpleProfiler |Learning [ms]: 91
+2022-01-20 13:20:26 INFO SimpleProfiler |Searching for counterexample [ms]: 732
+2022-01-20 13:20:26 INFO Benchmarking |Qsize: 22
+2022-01-20 13:20:26 INFO Benchmarking |Isize: 10
+2022-01-20 13:20:26 INFO Benchmarking |Equivalent: OK
+2022-01-20 13:20:26 INFO Benchmarking |Info: N/A

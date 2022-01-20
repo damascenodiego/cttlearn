@@ -1,0 +1,29 @@
+2022-01-20 13:19:19 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:19:19 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:19:20 INFO Benchmarking |SUL name: ActiveMQ__two_client_will_retain.dot
+2022-01-20 13:19:20 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/MQTT/ActiveMQ__two_client_will_retain.dot
+2022-01-20 13:19:20 INFO Benchmarking |Seed: 1642681159801
+2022-01-20 13:19:20 INFO Benchmarking |Cache: Y
+2022-01-20 13:19:20 INFO SouchaCTT |EquivalenceOracle: SouchaCTT: {Technique=hsi;ExtraStates=1;}
+2022-01-20 13:19:20 INFO Benchmarking |EquivalenceOracle: SouchaCTT(hsi,1)
+2022-01-20 13:19:20 INFO Benchmarking |Method: L*M
+2022-01-20 13:19:20 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':8,'CESize':4}
+2022-01-20 13:19:20 INFO EQWrapperHypSize |EQStats:{'Iter':2,'HypSize':10,'CESize':4}
+2022-01-20 13:19:20 INFO EQWrapperHypSize |EQStats:{'Iter':3,'HypSize':11,'CESize':4}
+2022-01-20 13:19:20 INFO EQWrapperHypSize |EQStats:{'Iter':4,'HypSize':12,'CESize':6}
+2022-01-20 13:19:20 INFO EQWrapperHypSize |EQStats:{'Iter':5,'HypSize':14,'CESize':6}
+2022-01-20 13:19:20 INFO EQWrapperHypSize |EQStats:{'Iter':6,'HypSize':15,'CESize':7}
+2022-01-20 13:19:20 INFO EQWrapperHypSize |EQStats:{'Iter':7,'HypSize':16,'CESize':7}
+2022-01-20 13:19:20 INFO EQWrapperHypSize |EQStats:{'Iter':8,'HypSize':17,'CESize':9}
+2022-01-20 13:19:20 INFO EQWrapperHypSize |EQStats:{'Iter':9,'HypSize':18,'CESize':0}
+2022-01-20 13:19:20 INFO Benchmarking |Rounds: 9
+2022-01-20 13:19:20 INFO Benchmarking |MQ [Resets]: 2613
+2022-01-20 13:19:20 INFO Benchmarking |MQ [Symbols]: 14729
+2022-01-20 13:19:20 INFO Benchmarking |EQ [Resets]: 3555
+2022-01-20 13:19:20 INFO Benchmarking |EQ [Symbols]: 22621
+2022-01-20 13:19:20 INFO SimpleProfiler |Learning [ms]: 57
+2022-01-20 13:19:20 INFO SimpleProfiler |Searching for counterexample [ms]: 504
+2022-01-20 13:19:20 INFO Benchmarking |Qsize: 18
+2022-01-20 13:19:20 INFO Benchmarking |Isize: 9
+2022-01-20 13:19:20 INFO Benchmarking |Equivalent: OK
+2022-01-20 13:19:20 INFO Benchmarking |Info: N/A

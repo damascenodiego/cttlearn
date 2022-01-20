@@ -1,0 +1,27 @@
+2022-01-20 13:19:59 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:19:59 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:19:59 INFO Benchmarking |SUL name: mbedtls_all_cert_nreq.dot
+2022-01-20 13:19:59 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/DTLS/mbedtls_all_cert_nreq.dot
+2022-01-20 13:19:59 INFO Benchmarking |Seed: 1642681199580
+2022-01-20 13:19:59 INFO Benchmarking |Cache: Y
+2022-01-20 13:19:59 INFO Benchmarking |EquivalenceOracle: LearnlibEQOracle(w,2)
+2022-01-20 13:19:59 INFO Benchmarking |Method: L*M
+2022-01-20 13:19:59 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':8,'CESize':5}
+2022-01-20 13:19:59 INFO EQWrapperHypSize |EQStats:{'Iter':2,'HypSize':9,'CESize':5}
+2022-01-20 13:20:00 INFO EQWrapperHypSize |EQStats:{'Iter':3,'HypSize':12,'CESize':6}
+2022-01-20 13:20:00 INFO EQWrapperHypSize |EQStats:{'Iter':4,'HypSize':13,'CESize':6}
+2022-01-20 13:20:00 INFO EQWrapperHypSize |EQStats:{'Iter':5,'HypSize':15,'CESize':7}
+2022-01-20 13:20:00 INFO EQWrapperHypSize |EQStats:{'Iter':6,'HypSize':16,'CESize':5}
+2022-01-20 13:20:00 INFO EQWrapperHypSize |EQStats:{'Iter':7,'HypSize':17,'CESize':5}
+2022-01-20 13:20:02 INFO EQWrapperHypSize |EQStats:{'Iter':8,'HypSize':20,'CESize':0}
+2022-01-20 13:20:02 INFO Benchmarking |Rounds: 8
+2022-01-20 13:20:02 INFO Benchmarking |MQ [Resets]: 7261
+2022-01-20 13:20:02 INFO Benchmarking |MQ [Symbols]: 38312
+2022-01-20 13:20:02 INFO Benchmarking |EQ [Resets]: 775900
+2022-01-20 13:20:02 INFO Benchmarking |EQ [Symbols]: 6192971
+2022-01-20 13:20:02 INFO SimpleProfiler |Learning [ms]: 93
+2022-01-20 13:20:02 INFO SimpleProfiler |Searching for counterexample [ms]: 2341
+2022-01-20 13:20:02 INFO Benchmarking |Qsize: 20
+2022-01-20 13:20:02 INFO Benchmarking |Isize: 16
+2022-01-20 13:20:02 INFO Benchmarking |Equivalent: OK
+2022-01-20 13:20:02 INFO Benchmarking |Info: N/A

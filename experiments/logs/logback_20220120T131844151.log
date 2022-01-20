@@ -1,0 +1,25 @@
+2022-01-20 13:18:44 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:18:44 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:18:44 INFO Benchmarking |SUL name: etinydtls_psk.dot
+2022-01-20 13:18:44 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/DTLS/etinydtls_psk.dot
+2022-01-20 13:18:44 INFO Benchmarking |Seed: 1642681124130
+2022-01-20 13:18:44 INFO Benchmarking |Cache: Y
+2022-01-20 13:18:44 INFO Benchmarking |EquivalenceOracle: LearnlibEQOracle(w,1)
+2022-01-20 13:18:44 INFO Benchmarking |Method: L*M
+2022-01-20 13:18:44 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':9,'CESize':6}
+2022-01-20 13:18:44 INFO EQWrapperHypSize |EQStats:{'Iter':2,'HypSize':11,'CESize':6}
+2022-01-20 13:18:44 INFO EQWrapperHypSize |EQStats:{'Iter':3,'HypSize':14,'CESize':6}
+2022-01-20 13:18:44 INFO EQWrapperHypSize |EQStats:{'Iter':4,'HypSize':15,'CESize':7}
+2022-01-20 13:18:44 INFO EQWrapperHypSize |EQStats:{'Iter':5,'HypSize':17,'CESize':8}
+2022-01-20 13:18:44 INFO EQWrapperHypSize |EQStats:{'Iter':6,'HypSize':18,'CESize':0}
+2022-01-20 13:18:44 INFO Benchmarking |Rounds: 6
+2022-01-20 13:18:44 INFO Benchmarking |MQ [Resets]: 1430
+2022-01-20 13:18:44 INFO Benchmarking |MQ [Symbols]: 9054
+2022-01-20 13:18:44 INFO Benchmarking |EQ [Resets]: 6066
+2022-01-20 13:18:44 INFO Benchmarking |EQ [Symbols]: 45883
+2022-01-20 13:18:44 INFO SimpleProfiler |Learning [ms]: 185
+2022-01-20 13:18:44 INFO SimpleProfiler |Searching for counterexample [ms]: 297
+2022-01-20 13:18:44 INFO Benchmarking |Qsize: 22
+2022-01-20 13:18:44 INFO Benchmarking |Isize: 7
+2022-01-20 13:18:44 INFO Benchmarking |Equivalent: NOK
+2022-01-20 13:18:44 INFO Benchmarking |Info: N/A

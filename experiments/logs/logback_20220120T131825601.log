@@ -1,0 +1,20 @@
+2022-01-20 13:18:25 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:18:25 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:18:25 INFO Benchmarking |SUL name: GnuTLS_3.3.12_client_regular.dot
+2022-01-20 13:18:25 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/TLS/GnuTLS_3.3.12_client_regular.dot
+2022-01-20 13:18:25 INFO Benchmarking |Seed: 1642681105592
+2022-01-20 13:18:25 INFO Benchmarking |Cache: Y
+2022-01-20 13:18:25 INFO Benchmarking |EquivalenceOracle: LearnlibEQOracle(wp,0)
+2022-01-20 13:18:25 INFO Benchmarking |Method: L*M
+2022-01-20 13:18:25 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':7,'CESize':0}
+2022-01-20 13:18:25 INFO Benchmarking |Rounds: 1
+2022-01-20 13:18:25 INFO Benchmarking |MQ [Resets]: 456
+2022-01-20 13:18:25 INFO Benchmarking |MQ [Symbols]: 1736
+2022-01-20 13:18:25 INFO Benchmarking |EQ [Resets]: 88
+2022-01-20 13:18:25 INFO Benchmarking |EQ [Symbols]: 306
+2022-01-20 13:18:25 INFO SimpleProfiler |Learning [ms]: 20
+2022-01-20 13:18:25 INFO SimpleProfiler |Searching for counterexample [ms]: 33
+2022-01-20 13:18:25 INFO Benchmarking |Qsize: 7
+2022-01-20 13:18:25 INFO Benchmarking |Isize: 8
+2022-01-20 13:18:25 INFO Benchmarking |Equivalent: OK
+2022-01-20 13:18:25 INFO Benchmarking |Info: N/A

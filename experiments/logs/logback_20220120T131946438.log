@@ -1,0 +1,29 @@
+2022-01-20 13:19:46 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:19:46 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:19:46 INFO Benchmarking |SUL name: BitVise.dot
+2022-01-20 13:19:46 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/SSH/BitVise.dot
+2022-01-20 13:19:46 INFO Benchmarking |Seed: 1642681186426
+2022-01-20 13:19:46 INFO Benchmarking |Cache: Y
+2022-01-20 13:19:46 INFO SouchaCTT |EquivalenceOracle: SouchaCTT: {Technique=spy;ExtraStates=1;}
+2022-01-20 13:19:46 INFO Benchmarking |EquivalenceOracle: SouchaCTT(spy,1)
+2022-01-20 13:19:46 INFO Benchmarking |Method: L*M
+2022-01-20 13:19:46 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':7,'CESize':6}
+2022-01-20 13:19:47 INFO EQWrapperHypSize |EQStats:{'Iter':2,'HypSize':44,'CESize':10}
+2022-01-20 13:19:48 INFO EQWrapperHypSize |EQStats:{'Iter':3,'HypSize':45,'CESize':10}
+2022-01-20 13:19:48 INFO EQWrapperHypSize |EQStats:{'Iter':4,'HypSize':46,'CESize':10}
+2022-01-20 13:19:49 INFO EQWrapperHypSize |EQStats:{'Iter':5,'HypSize':47,'CESize':11}
+2022-01-20 13:19:50 INFO EQWrapperHypSize |EQStats:{'Iter':6,'HypSize':48,'CESize':11}
+2022-01-20 13:19:51 INFO EQWrapperHypSize |EQStats:{'Iter':7,'HypSize':49,'CESize':11}
+2022-01-20 13:19:51 INFO EQWrapperHypSize |EQStats:{'Iter':8,'HypSize':50,'CESize':12}
+2022-01-20 13:19:52 INFO EQWrapperHypSize |EQStats:{'Iter':9,'HypSize':52,'CESize':0}
+2022-01-20 13:19:52 INFO Benchmarking |Rounds: 9
+2022-01-20 13:19:52 INFO Benchmarking |MQ [Resets]: 13860
+2022-01-20 13:19:52 INFO Benchmarking |MQ [Symbols]: 112813
+2022-01-20 13:19:52 INFO Benchmarking |EQ [Resets]: 15789
+2022-01-20 13:19:52 INFO Benchmarking |EQ [Symbols]: 156439
+2022-01-20 13:19:52 INFO SimpleProfiler |Learning [ms]: 153
+2022-01-20 13:19:52 INFO SimpleProfiler |Searching for counterexample [ms]: 6164
+2022-01-20 13:19:52 INFO Benchmarking |Qsize: 66
+2022-01-20 13:19:52 INFO Benchmarking |Isize: 13
+2022-01-20 13:19:52 INFO Benchmarking |Equivalent: NOK
+2022-01-20 13:19:53 INFO Benchmarking |Info: N/A

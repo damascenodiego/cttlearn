@@ -1,0 +1,29 @@
+2022-01-20 13:19:19 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:19:19 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:19:19 INFO Benchmarking |SUL name: wolfssl-4.0.0_dhe_ecdhe_rsa_cert_req.dot
+2022-01-20 13:19:19 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/DTLS/wolfssl-4.0.0_dhe_ecdhe_rsa_cert_req.dot
+2022-01-20 13:19:19 INFO Benchmarking |Seed: 1642681159263
+2022-01-20 13:19:19 INFO Benchmarking |Cache: Y
+2022-01-20 13:19:19 INFO SouchaCTT |EquivalenceOracle: SouchaCTT: {Technique=hsi;ExtraStates=1;}
+2022-01-20 13:19:19 INFO Benchmarking |EquivalenceOracle: SouchaCTT(hsi,1)
+2022-01-20 13:19:19 INFO Benchmarking |Method: L*M
+2022-01-20 13:19:19 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':6,'CESize':4}
+2022-01-20 13:19:19 INFO EQWrapperHypSize |EQStats:{'Iter':2,'HypSize':8,'CESize':4}
+2022-01-20 13:19:19 INFO EQWrapperHypSize |EQStats:{'Iter':3,'HypSize':11,'CESize':5}
+2022-01-20 13:19:19 INFO EQWrapperHypSize |EQStats:{'Iter':4,'HypSize':12,'CESize':5}
+2022-01-20 13:19:20 INFO EQWrapperHypSize |EQStats:{'Iter':5,'HypSize':13,'CESize':5}
+2022-01-20 13:19:20 INFO EQWrapperHypSize |EQStats:{'Iter':6,'HypSize':15,'CESize':6}
+2022-01-20 13:19:20 INFO EQWrapperHypSize |EQStats:{'Iter':7,'HypSize':16,'CESize':5}
+2022-01-20 13:19:20 INFO EQWrapperHypSize |EQStats:{'Iter':8,'HypSize':17,'CESize':6}
+2022-01-20 13:19:20 INFO EQWrapperHypSize |EQStats:{'Iter':9,'HypSize':18,'CESize':0}
+2022-01-20 13:19:20 INFO Benchmarking |Rounds: 9
+2022-01-20 13:19:20 INFO Benchmarking |MQ [Resets]: 5437
+2022-01-20 13:19:20 INFO Benchmarking |MQ [Symbols]: 24668
+2022-01-20 13:19:20 INFO Benchmarking |EQ [Resets]: 9727
+2022-01-20 13:19:20 INFO Benchmarking |EQ [Symbols]: 53796
+2022-01-20 13:19:20 INFO SimpleProfiler |Learning [ms]: 73
+2022-01-20 13:19:20 INFO SimpleProfiler |Searching for counterexample [ms]: 971
+2022-01-20 13:19:20 INFO Benchmarking |Qsize: 24
+2022-01-20 13:19:20 INFO Benchmarking |Isize: 14
+2022-01-20 13:19:20 INFO Benchmarking |Equivalent: NOK
+2022-01-20 13:19:20 INFO Benchmarking |Info: N/A

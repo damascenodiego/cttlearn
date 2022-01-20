@@ -1,0 +1,25 @@
+2022-01-20 13:19:05 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:19:05 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:19:05 INFO Benchmarking |SUL name: mosquitto__two_client_will_retain.dot
+2022-01-20 13:19:05 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/MQTT/mosquitto__two_client_will_retain.dot
+2022-01-20 13:19:05 INFO Benchmarking |Seed: 1642681145278
+2022-01-20 13:19:05 INFO Benchmarking |Cache: Y
+2022-01-20 13:19:05 INFO Benchmarking |EquivalenceOracle: LearnlibEQOracle(wp,1)
+2022-01-20 13:19:05 INFO Benchmarking |Method: L*M
+2022-01-20 13:19:05 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':10,'CESize':4}
+2022-01-20 13:19:05 INFO EQWrapperHypSize |EQStats:{'Iter':2,'HypSize':12,'CESize':6}
+2022-01-20 13:19:05 INFO EQWrapperHypSize |EQStats:{'Iter':3,'HypSize':14,'CESize':4}
+2022-01-20 13:19:05 INFO EQWrapperHypSize |EQStats:{'Iter':4,'HypSize':15,'CESize':7}
+2022-01-20 13:19:05 INFO EQWrapperHypSize |EQStats:{'Iter':5,'HypSize':16,'CESize':9}
+2022-01-20 13:19:05 INFO EQWrapperHypSize |EQStats:{'Iter':6,'HypSize':18,'CESize':0}
+2022-01-20 13:19:05 INFO Benchmarking |Rounds: 6
+2022-01-20 13:19:05 INFO Benchmarking |MQ [Resets]: 2184
+2022-01-20 13:19:05 INFO Benchmarking |MQ [Symbols]: 12062
+2022-01-20 13:19:05 INFO Benchmarking |EQ [Resets]: 4384
+2022-01-20 13:19:05 INFO Benchmarking |EQ [Symbols]: 27114
+2022-01-20 13:19:05 INFO SimpleProfiler |Learning [ms]: 69
+2022-01-20 13:19:05 INFO SimpleProfiler |Searching for counterexample [ms]: 132
+2022-01-20 13:19:05 INFO Benchmarking |Qsize: 18
+2022-01-20 13:19:05 INFO Benchmarking |Isize: 9
+2022-01-20 13:19:05 INFO Benchmarking |Equivalent: OK
+2022-01-20 13:19:05 INFO Benchmarking |Info: N/A

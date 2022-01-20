@@ -1,0 +1,21 @@
+2022-01-20 13:20:37 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:20:38 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:20:38 INFO Benchmarking |SUL name: VerneMQ__two_client_same_id.dot
+2022-01-20 13:20:38 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/MQTT/VerneMQ__two_client_same_id.dot
+2022-01-20 13:20:38 INFO Benchmarking |Seed: 1642681237753
+2022-01-20 13:20:38 INFO Benchmarking |Cache: Y
+2022-01-20 13:20:38 INFO Benchmarking |EquivalenceOracle: LearnlibEQOracle(wp,2)
+2022-01-20 13:20:38 INFO Benchmarking |Method: L*M
+2022-01-20 13:20:38 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':6,'CESize':5}
+2022-01-20 13:20:38 INFO EQWrapperHypSize |EQStats:{'Iter':2,'HypSize':7,'CESize':0}
+2022-01-20 13:20:38 INFO Benchmarking |Rounds: 2
+2022-01-20 13:20:38 INFO Benchmarking |MQ [Resets]: 929
+2022-01-20 13:20:38 INFO Benchmarking |MQ [Symbols]: 3365
+2022-01-20 13:20:38 INFO Benchmarking |EQ [Resets]: 21893
+2022-01-20 13:20:38 INFO Benchmarking |EQ [Symbols]: 125106
+2022-01-20 13:20:38 INFO SimpleProfiler |Learning [ms]: 51
+2022-01-20 13:20:38 INFO SimpleProfiler |Searching for counterexample [ms]: 246
+2022-01-20 13:20:38 INFO Benchmarking |Qsize: 7
+2022-01-20 13:20:38 INFO Benchmarking |Isize: 11
+2022-01-20 13:20:38 INFO Benchmarking |Equivalent: OK
+2022-01-20 13:20:38 INFO Benchmarking |Info: N/A

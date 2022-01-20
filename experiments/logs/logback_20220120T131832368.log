@@ -1,0 +1,21 @@
+2022-01-20 13:18:32 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:18:32 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:18:32 INFO Benchmarking |SUL name: BitVise.dot
+2022-01-20 13:18:32 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/SSH/BitVise.dot
+2022-01-20 13:18:32 INFO Benchmarking |Seed: 1642681112357
+2022-01-20 13:18:32 INFO Benchmarking |Cache: Y
+2022-01-20 13:18:32 INFO SouchaCTT |EquivalenceOracle: SouchaCTT: {Technique=hsi;ExtraStates=0;}
+2022-01-20 13:18:32 INFO Benchmarking |EquivalenceOracle: SouchaCTT(hsi,0)
+2022-01-20 13:18:32 INFO Benchmarking |Method: L*M
+2022-01-20 13:18:32 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':7,'CESize':0}
+2022-01-20 13:18:32 INFO Benchmarking |Rounds: 1
+2022-01-20 13:18:32 INFO Benchmarking |MQ [Resets]: 1196
+2022-01-20 13:18:32 INFO Benchmarking |MQ [Symbols]: 3900
+2022-01-20 13:18:32 INFO Benchmarking |EQ [Resets]: 166
+2022-01-20 13:18:32 INFO Benchmarking |EQ [Symbols]: 560
+2022-01-20 13:18:32 INFO SimpleProfiler |Learning [ms]: 31
+2022-01-20 13:18:32 INFO SimpleProfiler |Searching for counterexample [ms]: 43
+2022-01-20 13:18:32 INFO Benchmarking |Qsize: 66
+2022-01-20 13:18:32 INFO Benchmarking |Isize: 13
+2022-01-20 13:18:32 INFO Benchmarking |Equivalent: NOK
+2022-01-20 13:18:32 INFO Benchmarking |Info: N/A

@@ -1,0 +1,28 @@
+2022-01-20 13:18:59 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:18:59 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:18:59 INFO Benchmarking |SUL name: gnutls-3.6.7_all_cert_req.dot
+2022-01-20 13:18:59 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/DTLS/gnutls-3.6.7_all_cert_req.dot
+2022-01-20 13:18:59 INFO Benchmarking |Seed: 1642681139364
+2022-01-20 13:18:59 INFO Benchmarking |Cache: Y
+2022-01-20 13:18:59 INFO Benchmarking |EquivalenceOracle: LearnlibEQOracle(wp,1)
+2022-01-20 13:18:59 INFO Benchmarking |Method: L*M
+2022-01-20 13:18:59 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':3,'CESize':4}
+2022-01-20 13:18:59 INFO EQWrapperHypSize |EQStats:{'Iter':2,'HypSize':4,'CESize':5}
+2022-01-20 13:18:59 INFO EQWrapperHypSize |EQStats:{'Iter':3,'HypSize':5,'CESize':5}
+2022-01-20 13:18:59 INFO EQWrapperHypSize |EQStats:{'Iter':4,'HypSize':7,'CESize':5}
+2022-01-20 13:19:00 INFO EQWrapperHypSize |EQStats:{'Iter':5,'HypSize':10,'CESize':6}
+2022-01-20 13:19:00 INFO EQWrapperHypSize |EQStats:{'Iter':6,'HypSize':11,'CESize':6}
+2022-01-20 13:19:00 INFO EQWrapperHypSize |EQStats:{'Iter':7,'HypSize':12,'CESize':7}
+2022-01-20 13:19:00 INFO EQWrapperHypSize |EQStats:{'Iter':8,'HypSize':13,'CESize':5}
+2022-01-20 13:19:00 INFO EQWrapperHypSize |EQStats:{'Iter':9,'HypSize':14,'CESize':0}
+2022-01-20 13:19:00 INFO Benchmarking |Rounds: 9
+2022-01-20 13:19:00 INFO Benchmarking |MQ [Resets]: 5277
+2022-01-20 13:19:00 INFO Benchmarking |MQ [Symbols]: 27001
+2022-01-20 13:19:00 INFO Benchmarking |EQ [Resets]: 19844
+2022-01-20 13:19:00 INFO Benchmarking |EQ [Symbols]: 125050
+2022-01-20 13:19:00 INFO SimpleProfiler |Learning [ms]: 395
+2022-01-20 13:19:00 INFO SimpleProfiler |Searching for counterexample [ms]: 558
+2022-01-20 13:19:00 INFO Benchmarking |Qsize: 16
+2022-01-20 13:19:00 INFO Benchmarking |Isize: 16
+2022-01-20 13:19:00 INFO Benchmarking |Equivalent: NOK
+2022-01-20 13:19:00 INFO Benchmarking |Info: N/A

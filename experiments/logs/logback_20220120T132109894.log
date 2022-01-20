@@ -1,0 +1,22 @@
+2022-01-20 13:21:10 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:21:10 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:21:10 INFO Benchmarking |SUL name: scandium_latest_psk.dot
+2022-01-20 13:21:10 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/DTLS/scandium_latest_psk.dot
+2022-01-20 13:21:10 INFO Benchmarking |Seed: 1642681269886
+2022-01-20 13:21:10 INFO Benchmarking |Cache: Y
+2022-01-20 13:21:10 INFO SouchaCTT |EquivalenceOracle: SouchaCTT: {Technique=hsi;ExtraStates=2;}
+2022-01-20 13:21:10 INFO Benchmarking |EquivalenceOracle: SouchaCTT(hsi,2)
+2022-01-20 13:21:10 INFO Benchmarking |Method: L*M
+2022-01-20 13:21:10 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':10,'CESize':7}
+2022-01-20 13:21:10 INFO EQWrapperHypSize |EQStats:{'Iter':2,'HypSize':13,'CESize':0}
+2022-01-20 13:21:10 INFO Benchmarking |Rounds: 2
+2022-01-20 13:21:10 INFO Benchmarking |MQ [Resets]: 729
+2022-01-20 13:21:10 INFO Benchmarking |MQ [Symbols]: 4074
+2022-01-20 13:21:10 INFO Benchmarking |EQ [Resets]: 7619
+2022-01-20 13:21:10 INFO Benchmarking |EQ [Symbols]: 57815
+2022-01-20 13:21:10 INFO SimpleProfiler |Learning [ms]: 32
+2022-01-20 13:21:10 INFO SimpleProfiler |Searching for counterexample [ms]: 310
+2022-01-20 13:21:10 INFO Benchmarking |Qsize: 13
+2022-01-20 13:21:10 INFO Benchmarking |Isize: 7
+2022-01-20 13:21:10 INFO Benchmarking |Equivalent: OK
+2022-01-20 13:21:10 INFO Benchmarking |Info: N/A

@@ -1,0 +1,23 @@
+2022-01-20 13:28:43 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:28:43 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:28:43 INFO Benchmarking |SUL name: pion_psk.dot
+2022-01-20 13:28:43 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/DTLS/pion_psk.dot
+2022-01-20 13:28:43 INFO Benchmarking |Seed: 1642681723666
+2022-01-20 13:28:43 INFO Benchmarking |Cache: Y
+2022-01-20 13:28:43 INFO SouchaCTT |EquivalenceOracle: SouchaCTT: {Technique=spy;ExtraStates=2;}
+2022-01-20 13:28:43 INFO Benchmarking |EquivalenceOracle: SouchaCTT(spy,2)
+2022-01-20 13:28:43 INFO Benchmarking |Method: L*M
+2022-01-20 13:28:43 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':5,'CESize':5}
+2022-01-20 13:28:44 INFO EQWrapperHypSize |EQStats:{'Iter':2,'HypSize':13,'CESize':9}
+2022-01-20 13:28:44 INFO EQWrapperHypSize |EQStats:{'Iter':3,'HypSize':14,'CESize':0}
+2022-01-20 13:28:44 INFO Benchmarking |Rounds: 3
+2022-01-20 13:28:44 INFO Benchmarking |MQ [Resets]: 877
+2022-01-20 13:28:44 INFO Benchmarking |MQ [Symbols]: 4720
+2022-01-20 13:28:44 INFO Benchmarking |EQ [Resets]: 6104
+2022-01-20 13:28:44 INFO Benchmarking |EQ [Symbols]: 45136
+2022-01-20 13:28:44 INFO SimpleProfiler |Learning [ms]: 27
+2022-01-20 13:28:44 INFO SimpleProfiler |Searching for counterexample [ms]: 648
+2022-01-20 13:28:44 INFO Benchmarking |Qsize: 14
+2022-01-20 13:28:44 INFO Benchmarking |Isize: 7
+2022-01-20 13:28:44 INFO Benchmarking |Equivalent: OK
+2022-01-20 13:28:44 INFO Benchmarking |Info: N/A

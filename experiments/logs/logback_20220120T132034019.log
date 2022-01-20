@@ -1,0 +1,22 @@
+2022-01-20 13:20:34 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:20:34 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:20:34 INFO Benchmarking |SUL name: wolfssl-4.0.0_psk.dot
+2022-01-20 13:20:34 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/DTLS/wolfssl-4.0.0_psk.dot
+2022-01-20 13:20:34 INFO Benchmarking |Seed: 1642681234006
+2022-01-20 13:20:34 INFO Benchmarking |Cache: Y
+2022-01-20 13:20:34 INFO Benchmarking |EquivalenceOracle: LearnlibEQOracle(wp,2)
+2022-01-20 13:20:34 INFO Benchmarking |Method: L*M
+2022-01-20 13:20:34 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':7,'CESize':5}
+2022-01-20 13:20:34 INFO EQWrapperHypSize |EQStats:{'Iter':2,'HypSize':9,'CESize':5}
+2022-01-20 13:20:34 INFO EQWrapperHypSize |EQStats:{'Iter':3,'HypSize':10,'CESize':0}
+2022-01-20 13:20:34 INFO Benchmarking |Rounds: 3
+2022-01-20 13:20:34 INFO Benchmarking |MQ [Resets]: 617
+2022-01-20 13:20:34 INFO Benchmarking |MQ [Symbols]: 2947
+2022-01-20 13:20:34 INFO Benchmarking |EQ [Resets]: 7627
+2022-01-20 13:20:34 INFO Benchmarking |EQ [Symbols]: 48715
+2022-01-20 13:20:34 INFO SimpleProfiler |Learning [ms]: 43
+2022-01-20 13:20:34 INFO SimpleProfiler |Searching for counterexample [ms]: 169
+2022-01-20 13:20:34 INFO Benchmarking |Qsize: 10
+2022-01-20 13:20:34 INFO Benchmarking |Isize: 7
+2022-01-20 13:20:34 INFO Benchmarking |Equivalent: OK
+2022-01-20 13:20:34 INFO Benchmarking |Info: N/A

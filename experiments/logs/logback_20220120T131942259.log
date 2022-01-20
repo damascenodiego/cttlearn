@@ -1,0 +1,24 @@
+2022-01-20 13:19:42 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:19:42 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:19:42 INFO Benchmarking |SUL name: ActiveMQ__non_clean.dot
+2022-01-20 13:19:42 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/MQTT/ActiveMQ__non_clean.dot
+2022-01-20 13:19:42 INFO Benchmarking |Seed: 1642681182246
+2022-01-20 13:19:42 INFO Benchmarking |Cache: Y
+2022-01-20 13:19:42 INFO SouchaCTT |EquivalenceOracle: SouchaCTT: {Technique=spy;ExtraStates=1;}
+2022-01-20 13:19:42 INFO Benchmarking |EquivalenceOracle: SouchaCTT(spy,1)
+2022-01-20 13:19:42 INFO Benchmarking |Method: L*M
+2022-01-20 13:19:42 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':5,'CESize':6}
+2022-01-20 13:19:42 INFO EQWrapperHypSize |EQStats:{'Iter':2,'HypSize':10,'CESize':6}
+2022-01-20 13:19:42 INFO EQWrapperHypSize |EQStats:{'Iter':3,'HypSize':11,'CESize':6}
+2022-01-20 13:19:42 INFO EQWrapperHypSize |EQStats:{'Iter':4,'HypSize':12,'CESize':0}
+2022-01-20 13:19:42 INFO Benchmarking |Rounds: 4
+2022-01-20 13:19:42 INFO Benchmarking |MQ [Resets]: 621
+2022-01-20 13:19:42 INFO Benchmarking |MQ [Symbols]: 3654
+2022-01-20 13:19:42 INFO Benchmarking |EQ [Resets]: 543
+2022-01-20 13:19:42 INFO Benchmarking |EQ [Symbols]: 4075
+2022-01-20 13:19:42 INFO SimpleProfiler |Learning [ms]: 26
+2022-01-20 13:19:42 INFO SimpleProfiler |Searching for counterexample [ms]: 86
+2022-01-20 13:19:42 INFO Benchmarking |Qsize: 12
+2022-01-20 13:19:42 INFO Benchmarking |Isize: 6
+2022-01-20 13:19:42 INFO Benchmarking |Equivalent: OK
+2022-01-20 13:19:42 INFO Benchmarking |Info: N/A

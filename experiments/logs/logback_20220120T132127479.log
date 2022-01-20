@@ -1,0 +1,22 @@
+2022-01-20 13:21:27 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:21:27 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:21:27 INFO Benchmarking |SUL name: OpenSSL_1.0.1l_server_regular.dot
+2022-01-20 13:21:27 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/TLS/OpenSSL_1.0.1l_server_regular.dot
+2022-01-20 13:21:27 INFO Benchmarking |Seed: 1642681287469
+2022-01-20 13:21:27 INFO Benchmarking |Cache: Y
+2022-01-20 13:21:27 INFO SouchaCTT |EquivalenceOracle: SouchaCTT: {Technique=hsi;ExtraStates=2;}
+2022-01-20 13:21:27 INFO Benchmarking |EquivalenceOracle: SouchaCTT(hsi,2)
+2022-01-20 13:21:27 INFO Benchmarking |Method: L*M
+2022-01-20 13:21:27 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':8,'CESize':6}
+2022-01-20 13:21:27 INFO EQWrapperHypSize |EQStats:{'Iter':2,'HypSize':10,'CESize':0}
+2022-01-20 13:21:27 INFO Benchmarking |Rounds: 2
+2022-01-20 13:21:27 INFO Benchmarking |MQ [Resets]: 559
+2022-01-20 13:21:27 INFO Benchmarking |MQ [Symbols]: 2340
+2022-01-20 13:21:27 INFO Benchmarking |EQ [Resets]: 3053
+2022-01-20 13:21:27 INFO Benchmarking |EQ [Symbols]: 18963
+2022-01-20 13:21:27 INFO SimpleProfiler |Learning [ms]: 32
+2022-01-20 13:21:27 INFO SimpleProfiler |Searching for counterexample [ms]: 190
+2022-01-20 13:21:27 INFO Benchmarking |Qsize: 10
+2022-01-20 13:21:27 INFO Benchmarking |Isize: 7
+2022-01-20 13:21:27 INFO Benchmarking |Equivalent: OK
+2022-01-20 13:21:27 INFO Benchmarking |Info: N/A

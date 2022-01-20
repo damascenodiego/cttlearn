@@ -1,0 +1,21 @@
+2022-01-20 13:18:35 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:18:35 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:18:35 INFO Benchmarking |SUL name: gnutls-3.5.19_psk_rsa_cert_nreq.dot
+2022-01-20 13:18:35 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/DTLS/gnutls-3.5.19_psk_rsa_cert_nreq.dot
+2022-01-20 13:18:35 INFO Benchmarking |Seed: 1642681115741
+2022-01-20 13:18:35 INFO Benchmarking |Cache: Y
+2022-01-20 13:18:35 INFO SouchaCTT |EquivalenceOracle: SouchaCTT: {Technique=spy;ExtraStates=0;}
+2022-01-20 13:18:35 INFO Benchmarking |EquivalenceOracle: SouchaCTT(spy,0)
+2022-01-20 13:18:35 INFO Benchmarking |Method: L*M
+2022-01-20 13:18:36 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':4,'CESize':0}
+2022-01-20 13:18:36 INFO Benchmarking |Rounds: 1
+2022-01-20 13:18:36 INFO Benchmarking |MQ [Resets]: 588
+2022-01-20 13:18:36 INFO Benchmarking |MQ [Symbols]: 1740
+2022-01-20 13:18:36 INFO Benchmarking |EQ [Resets]: 38
+2022-01-20 13:18:36 INFO Benchmarking |EQ [Symbols]: 158
+2022-01-20 13:18:36 INFO SimpleProfiler |Learning [ms]: 33
+2022-01-20 13:18:36 INFO SimpleProfiler |Searching for counterexample [ms]: 20
+2022-01-20 13:18:36 INFO Benchmarking |Qsize: 29
+2022-01-20 13:18:36 INFO Benchmarking |Isize: 12
+2022-01-20 13:18:36 INFO Benchmarking |Equivalent: NOK
+2022-01-20 13:18:36 INFO Benchmarking |Info: N/A

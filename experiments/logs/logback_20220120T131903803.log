@@ -1,0 +1,21 @@
+2022-01-20 13:19:03 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:19:03 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:19:03 INFO Benchmarking |SUL name: emqtt__non_clean.dot
+2022-01-20 13:19:03 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/MQTT/emqtt__non_clean.dot
+2022-01-20 13:19:03 INFO Benchmarking |Seed: 1642681143795
+2022-01-20 13:19:03 INFO Benchmarking |Cache: Y
+2022-01-20 13:19:03 INFO Benchmarking |EquivalenceOracle: LearnlibEQOracle(wp,1)
+2022-01-20 13:19:03 INFO Benchmarking |Method: L*M
+2022-01-20 13:19:04 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':6,'CESize':5}
+2022-01-20 13:19:04 INFO EQWrapperHypSize |EQStats:{'Iter':2,'HypSize':12,'CESize':0}
+2022-01-20 13:19:04 INFO Benchmarking |Rounds: 2
+2022-01-20 13:19:04 INFO Benchmarking |MQ [Resets]: 499
+2022-01-20 13:19:04 INFO Benchmarking |MQ [Symbols]: 2704
+2022-01-20 13:19:04 INFO Benchmarking |EQ [Resets]: 815
+2022-01-20 13:19:04 INFO Benchmarking |EQ [Symbols]: 5134
+2022-01-20 13:19:04 INFO SimpleProfiler |Learning [ms]: 23
+2022-01-20 13:19:04 INFO SimpleProfiler |Searching for counterexample [ms]: 69
+2022-01-20 13:19:04 INFO Benchmarking |Qsize: 12
+2022-01-20 13:19:04 INFO Benchmarking |Isize: 6
+2022-01-20 13:19:04 INFO Benchmarking |Equivalent: OK
+2022-01-20 13:19:04 INFO Benchmarking |Info: N/A

@@ -1,0 +1,22 @@
+2022-01-20 13:30:38 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:30:38 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:30:38 INFO Benchmarking |SUL name: emqtt__two_client_same_id.dot
+2022-01-20 13:30:38 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/MQTT/emqtt__two_client_same_id.dot
+2022-01-20 13:30:38 INFO Benchmarking |Seed: 1642681838193
+2022-01-20 13:30:38 INFO Benchmarking |Cache: Y
+2022-01-20 13:30:38 INFO SouchaCTT |EquivalenceOracle: SouchaCTT: {Technique=spy;ExtraStates=2;}
+2022-01-20 13:30:38 INFO Benchmarking |EquivalenceOracle: SouchaCTT(spy,2)
+2022-01-20 13:30:38 INFO Benchmarking |Method: L*M
+2022-01-20 13:30:40 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':6,'CESize':6}
+2022-01-20 13:30:43 INFO EQWrapperHypSize |EQStats:{'Iter':2,'HypSize':7,'CESize':0}
+2022-01-20 13:30:43 INFO Benchmarking |Rounds: 2
+2022-01-20 13:30:43 INFO Benchmarking |MQ [Resets]: 935
+2022-01-20 13:30:43 INFO Benchmarking |MQ [Symbols]: 3463
+2022-01-20 13:30:43 INFO Benchmarking |EQ [Resets]: 8659
+2022-01-20 13:30:43 INFO Benchmarking |EQ [Symbols]: 74957
+2022-01-20 13:30:43 INFO SimpleProfiler |Learning [ms]: 23
+2022-01-20 13:30:43 INFO SimpleProfiler |Searching for counterexample [ms]: 5403
+2022-01-20 13:30:43 INFO Benchmarking |Qsize: 7
+2022-01-20 13:30:43 INFO Benchmarking |Isize: 11
+2022-01-20 13:30:43 INFO Benchmarking |Equivalent: OK
+2022-01-20 13:30:43 INFO Benchmarking |Info: N/A

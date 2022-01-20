@@ -1,0 +1,27 @@
+2022-01-20 13:19:22 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:19:22 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:19:22 INFO Benchmarking |SUL name: VerneMQ__two_client_will_retain.dot
+2022-01-20 13:19:22 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/MQTT/VerneMQ__two_client_will_retain.dot
+2022-01-20 13:19:22 INFO Benchmarking |Seed: 1642681162600
+2022-01-20 13:19:22 INFO Benchmarking |Cache: Y
+2022-01-20 13:19:22 INFO SouchaCTT |EquivalenceOracle: SouchaCTT: {Technique=hsi;ExtraStates=1;}
+2022-01-20 13:19:22 INFO Benchmarking |EquivalenceOracle: SouchaCTT(hsi,1)
+2022-01-20 13:19:22 INFO Benchmarking |Method: L*M
+2022-01-20 13:19:22 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':8,'CESize':4}
+2022-01-20 13:19:22 INFO EQWrapperHypSize |EQStats:{'Iter':2,'HypSize':10,'CESize':4}
+2022-01-20 13:19:23 INFO EQWrapperHypSize |EQStats:{'Iter':3,'HypSize':12,'CESize':4}
+2022-01-20 13:19:23 INFO EQWrapperHypSize |EQStats:{'Iter':4,'HypSize':13,'CESize':5}
+2022-01-20 13:19:23 INFO EQWrapperHypSize |EQStats:{'Iter':5,'HypSize':15,'CESize':7}
+2022-01-20 13:19:23 INFO EQWrapperHypSize |EQStats:{'Iter':6,'HypSize':16,'CESize':7}
+2022-01-20 13:19:23 INFO EQWrapperHypSize |EQStats:{'Iter':7,'HypSize':17,'CESize':0}
+2022-01-20 13:19:23 INFO Benchmarking |Rounds: 7
+2022-01-20 13:19:23 INFO Benchmarking |MQ [Resets]: 2197
+2022-01-20 13:19:23 INFO Benchmarking |MQ [Symbols]: 12523
+2022-01-20 13:19:23 INFO Benchmarking |EQ [Resets]: 2811
+2022-01-20 13:19:23 INFO Benchmarking |EQ [Symbols]: 17309
+2022-01-20 13:19:23 INFO SimpleProfiler |Learning [ms]: 66
+2022-01-20 13:19:23 INFO SimpleProfiler |Searching for counterexample [ms]: 339
+2022-01-20 13:19:23 INFO Benchmarking |Qsize: 17
+2022-01-20 13:19:23 INFO Benchmarking |Isize: 9
+2022-01-20 13:19:23 INFO Benchmarking |Equivalent: OK
+2022-01-20 13:19:23 INFO Benchmarking |Info: N/A

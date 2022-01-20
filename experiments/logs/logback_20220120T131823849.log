@@ -1,0 +1,20 @@
+2022-01-20 13:18:23 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:18:23 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:18:24 INFO Benchmarking |SUL name: mosquitto__non_clean.dot
+2022-01-20 13:18:24 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/MQTT/mosquitto__non_clean.dot
+2022-01-20 13:18:24 INFO Benchmarking |Seed: 1642681103838
+2022-01-20 13:18:24 INFO Benchmarking |Cache: Y
+2022-01-20 13:18:24 INFO Benchmarking |EquivalenceOracle: LearnlibEQOracle(wp,0)
+2022-01-20 13:18:24 INFO Benchmarking |Method: L*M
+2022-01-20 13:18:24 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':5,'CESize':0}
+2022-01-20 13:18:24 INFO Benchmarking |Rounds: 1
+2022-01-20 13:18:24 INFO Benchmarking |MQ [Resets]: 186
+2022-01-20 13:18:24 INFO Benchmarking |MQ [Symbols]: 618
+2022-01-20 13:18:24 INFO Benchmarking |EQ [Resets]: 41
+2022-01-20 13:18:24 INFO Benchmarking |EQ [Symbols]: 140
+2022-01-20 13:18:24 INFO SimpleProfiler |Learning [ms]: 20
+2022-01-20 13:18:24 INFO SimpleProfiler |Searching for counterexample [ms]: 22
+2022-01-20 13:18:24 INFO Benchmarking |Qsize: 12
+2022-01-20 13:18:24 INFO Benchmarking |Isize: 6
+2022-01-20 13:18:24 INFO Benchmarking |Equivalent: NOK
+2022-01-20 13:18:24 INFO Benchmarking |Info: N/A

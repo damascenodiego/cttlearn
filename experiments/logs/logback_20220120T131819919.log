@@ -1,0 +1,20 @@
+2022-01-20 13:18:20 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:18:20 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:18:20 INFO Benchmarking |SUL name: ASN_learnresult_SecureCode_Aut_fix.dot
+2022-01-20 13:18:20 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/Bankcard/ASN_learnresult_SecureCode_Aut_fix.dot
+2022-01-20 13:18:20 INFO Benchmarking |Seed: 1642681099909
+2022-01-20 13:18:20 INFO Benchmarking |Cache: Y
+2022-01-20 13:18:20 INFO Benchmarking |EquivalenceOracle: LearnlibEQOracle(wp,0)
+2022-01-20 13:18:20 INFO Benchmarking |Method: L*M
+2022-01-20 13:18:20 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':4,'CESize':0}
+2022-01-20 13:18:20 INFO Benchmarking |Rounds: 1
+2022-01-20 13:18:20 INFO Benchmarking |MQ [Resets]: 798
+2022-01-20 13:18:20 INFO Benchmarking |MQ [Symbols]: 2758
+2022-01-20 13:18:20 INFO Benchmarking |EQ [Resets]: 98
+2022-01-20 13:18:20 INFO Benchmarking |EQ [Symbols]: 358
+2022-01-20 13:18:20 INFO SimpleProfiler |Learning [ms]: 25
+2022-01-20 13:18:20 INFO SimpleProfiler |Searching for counterexample [ms]: 25
+2022-01-20 13:18:20 INFO Benchmarking |Qsize: 4
+2022-01-20 13:18:20 INFO Benchmarking |Isize: 14
+2022-01-20 13:18:20 INFO Benchmarking |Equivalent: OK
+2022-01-20 13:18:20 INFO Benchmarking |Info: N/A

@@ -1,0 +1,21 @@
+2022-01-20 13:18:34 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:18:34 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:18:34 INFO Benchmarking |SUL name: RSA_BSAFE_Java_6.1.1_server_regular.dot
+2022-01-20 13:18:34 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/TLS/RSA_BSAFE_Java_6.1.1_server_regular.dot
+2022-01-20 13:18:34 INFO Benchmarking |Seed: 1642681114601
+2022-01-20 13:18:34 INFO Benchmarking |Cache: Y
+2022-01-20 13:18:34 INFO SouchaCTT |EquivalenceOracle: SouchaCTT: {Technique=hsi;ExtraStates=0;}
+2022-01-20 13:18:34 INFO Benchmarking |EquivalenceOracle: SouchaCTT(hsi,0)
+2022-01-20 13:18:34 INFO Benchmarking |Method: L*M
+2022-01-20 13:18:34 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':6,'CESize':0}
+2022-01-20 13:18:34 INFO Benchmarking |Rounds: 1
+2022-01-20 13:18:34 INFO Benchmarking |MQ [Resets]: 392
+2022-01-20 13:18:34 INFO Benchmarking |MQ [Symbols]: 1480
+2022-01-20 13:18:34 INFO Benchmarking |EQ [Resets]: 43
+2022-01-20 13:18:34 INFO Benchmarking |EQ [Symbols]: 168
+2022-01-20 13:18:34 INFO SimpleProfiler |Learning [ms]: 22
+2022-01-20 13:18:34 INFO SimpleProfiler |Searching for counterexample [ms]: 30
+2022-01-20 13:18:34 INFO Benchmarking |Qsize: 6
+2022-01-20 13:18:34 INFO Benchmarking |Isize: 8
+2022-01-20 13:18:34 INFO Benchmarking |Equivalent: OK
+2022-01-20 13:18:34 INFO Benchmarking |Info: N/A

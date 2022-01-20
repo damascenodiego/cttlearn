@@ -1,0 +1,31 @@
+2022-01-20 13:20:26 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:20:26 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:20:26 INFO Benchmarking |SUL name: gnutls-3.5.19_psk_rsa_cert_nreq.dot
+2022-01-20 13:20:26 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/DTLS/gnutls-3.5.19_psk_rsa_cert_nreq.dot
+2022-01-20 13:20:26 INFO Benchmarking |Seed: 1642681226179
+2022-01-20 13:20:26 INFO Benchmarking |Cache: Y
+2022-01-20 13:20:26 INFO Benchmarking |EquivalenceOracle: LearnlibEQOracle(wp,2)
+2022-01-20 13:20:26 INFO Benchmarking |Method: L*M
+2022-01-20 13:20:26 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':4,'CESize':4}
+2022-01-20 13:20:26 INFO EQWrapperHypSize |EQStats:{'Iter':2,'HypSize':5,'CESize':5}
+2022-01-20 13:20:26 INFO EQWrapperHypSize |EQStats:{'Iter':3,'HypSize':6,'CESize':5}
+2022-01-20 13:20:26 INFO EQWrapperHypSize |EQStats:{'Iter':4,'HypSize':7,'CESize':6}
+2022-01-20 13:20:26 INFO EQWrapperHypSize |EQStats:{'Iter':5,'HypSize':9,'CESize':7}
+2022-01-20 13:20:26 INFO EQWrapperHypSize |EQStats:{'Iter':6,'HypSize':11,'CESize':8}
+2022-01-20 13:20:26 INFO EQWrapperHypSize |EQStats:{'Iter':7,'HypSize':15,'CESize':7}
+2022-01-20 13:20:26 INFO EQWrapperHypSize |EQStats:{'Iter':8,'HypSize':16,'CESize':7}
+2022-01-20 13:20:26 INFO EQWrapperHypSize |EQStats:{'Iter':9,'HypSize':17,'CESize':7}
+2022-01-20 13:20:26 INFO EQWrapperHypSize |EQStats:{'Iter':10,'HypSize':26,'CESize':7}
+2022-01-20 13:20:26 INFO EQWrapperHypSize |EQStats:{'Iter':11,'HypSize':27,'CESize':6}
+2022-01-20 13:20:27 INFO EQWrapperHypSize |EQStats:{'Iter':12,'HypSize':29,'CESize':0}
+2022-01-20 13:20:27 INFO Benchmarking |Rounds: 12
+2022-01-20 13:20:27 INFO Benchmarking |MQ [Resets]: 7686
+2022-01-20 13:20:27 INFO Benchmarking |MQ [Symbols]: 47852
+2022-01-20 13:20:27 INFO Benchmarking |EQ [Resets]: 181989
+2022-01-20 13:20:27 INFO Benchmarking |EQ [Symbols]: 1477429
+2022-01-20 13:20:27 INFO SimpleProfiler |Learning [ms]: 80
+2022-01-20 13:20:27 INFO SimpleProfiler |Searching for counterexample [ms]: 1256
+2022-01-20 13:20:27 INFO Benchmarking |Qsize: 29
+2022-01-20 13:20:27 INFO Benchmarking |Isize: 12
+2022-01-20 13:20:27 INFO Benchmarking |Equivalent: OK
+2022-01-20 13:20:27 INFO Benchmarking |Info: N/A

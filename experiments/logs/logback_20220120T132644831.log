@@ -1,0 +1,22 @@
+2022-01-20 13:26:44 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:26:44 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:26:44 INFO Benchmarking |SUL name: mbedtls_all_cert_nreq.dot
+2022-01-20 13:26:44 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/DTLS/mbedtls_all_cert_nreq.dot
+2022-01-20 13:26:44 INFO Benchmarking |Seed: 1642681604821
+2022-01-20 13:26:44 INFO Benchmarking |Cache: Y
+2022-01-20 13:26:44 INFO SouchaCTT |EquivalenceOracle: SouchaCTT: {Technique=spy;ExtraStates=2;}
+2022-01-20 13:26:44 INFO Benchmarking |EquivalenceOracle: SouchaCTT(spy,2)
+2022-01-20 13:26:44 INFO Benchmarking |Method: L*M
+2022-01-20 13:27:06 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':8,'CESize':5}
+2022-01-20 13:27:06 INFO EQWrapperHypSize |EQStats:{'Iter':2,'HypSize':9,'CESize':0}
+2022-01-20 13:27:06 INFO Benchmarking |Rounds: 2
+2022-01-20 13:27:06 INFO Benchmarking |MQ [Resets]: 2464
+2022-01-20 13:27:06 INFO Benchmarking |MQ [Symbols]: 10639
+2022-01-20 13:27:06 INFO Benchmarking |EQ [Resets]: 420
+2022-01-20 13:27:06 INFO Benchmarking |EQ [Symbols]: 1849
+2022-01-20 13:27:06 INFO SimpleProfiler |Learning [ms]: 33
+2022-01-20 13:27:06 INFO SimpleProfiler |Searching for counterexample [ms]: 21235
+2022-01-20 13:27:06 INFO Benchmarking |Qsize: 20
+2022-01-20 13:27:06 INFO Benchmarking |Isize: 16
+2022-01-20 13:27:06 INFO Benchmarking |Equivalent: NOK
+2022-01-20 13:27:06 INFO Benchmarking |Info: N/A

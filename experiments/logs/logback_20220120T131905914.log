@@ -1,0 +1,27 @@
+2022-01-20 13:19:06 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:19:06 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:19:06 INFO Benchmarking |SUL name: BitVise.dot
+2022-01-20 13:19:06 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/SSH/BitVise.dot
+2022-01-20 13:19:06 INFO Benchmarking |Seed: 1642681145906
+2022-01-20 13:19:06 INFO Benchmarking |Cache: Y
+2022-01-20 13:19:06 INFO Benchmarking |EquivalenceOracle: LearnlibEQOracle(wp,1)
+2022-01-20 13:19:06 INFO Benchmarking |Method: L*M
+2022-01-20 13:19:06 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':7,'CESize':4}
+2022-01-20 13:19:06 INFO EQWrapperHypSize |EQStats:{'Iter':2,'HypSize':40,'CESize':9}
+2022-01-20 13:19:06 INFO EQWrapperHypSize |EQStats:{'Iter':3,'HypSize':41,'CESize':10}
+2022-01-20 13:19:06 INFO EQWrapperHypSize |EQStats:{'Iter':4,'HypSize':42,'CESize':10}
+2022-01-20 13:19:06 INFO EQWrapperHypSize |EQStats:{'Iter':5,'HypSize':43,'CESize':12}
+2022-01-20 13:19:06 INFO EQWrapperHypSize |EQStats:{'Iter':6,'HypSize':44,'CESize':10}
+2022-01-20 13:19:06 INFO EQWrapperHypSize |EQStats:{'Iter':7,'HypSize':50,'CESize':12}
+2022-01-20 13:19:07 INFO EQWrapperHypSize |EQStats:{'Iter':8,'HypSize':52,'CESize':0}
+2022-01-20 13:19:07 INFO Benchmarking |Rounds: 8
+2022-01-20 13:19:07 INFO Benchmarking |MQ [Resets]: 13168
+2022-01-20 13:19:07 INFO Benchmarking |MQ [Symbols]: 105604
+2022-01-20 13:19:07 INFO Benchmarking |EQ [Resets]: 30909
+2022-01-20 13:19:07 INFO Benchmarking |EQ [Symbols]: 269124
+2022-01-20 13:19:07 INFO SimpleProfiler |Learning [ms]: 170
+2022-01-20 13:19:07 INFO SimpleProfiler |Searching for counterexample [ms]: 704
+2022-01-20 13:19:07 INFO Benchmarking |Qsize: 66
+2022-01-20 13:19:07 INFO Benchmarking |Isize: 13
+2022-01-20 13:19:07 INFO Benchmarking |Equivalent: NOK
+2022-01-20 13:19:07 INFO Benchmarking |Info: N/A

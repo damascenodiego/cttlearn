@@ -1,0 +1,24 @@
+2022-01-20 13:20:49 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:20:49 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:20:49 INFO Benchmarking |SUL name: gnutls-3.5.19_psk_rsa_cert_nreq.dot
+2022-01-20 13:20:49 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/DTLS/gnutls-3.5.19_psk_rsa_cert_nreq.dot
+2022-01-20 13:20:49 INFO Benchmarking |Seed: 1642681249693
+2022-01-20 13:20:49 INFO Benchmarking |Cache: Y
+2022-01-20 13:20:50 INFO SouchaCTT |EquivalenceOracle: SouchaCTT: {Technique=hsi;ExtraStates=2;}
+2022-01-20 13:20:50 INFO Benchmarking |EquivalenceOracle: SouchaCTT(hsi,2)
+2022-01-20 13:20:50 INFO Benchmarking |Method: L*M
+2022-01-20 13:20:50 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':4,'CESize':4}
+2022-01-20 13:20:50 INFO EQWrapperHypSize |EQStats:{'Iter':2,'HypSize':5,'CESize':5}
+2022-01-20 13:20:50 INFO EQWrapperHypSize |EQStats:{'Iter':3,'HypSize':6,'CESize':6}
+2022-01-20 13:20:50 INFO EQWrapperHypSize |EQStats:{'Iter':4,'HypSize':8,'CESize':0}
+2022-01-20 13:20:50 INFO Benchmarking |Rounds: 4
+2022-01-20 13:20:50 INFO Benchmarking |MQ [Resets]: 1438
+2022-01-20 13:20:50 INFO Benchmarking |MQ [Symbols]: 5915
+2022-01-20 13:20:50 INFO Benchmarking |EQ [Resets]: 6973
+2022-01-20 13:20:50 INFO Benchmarking |EQ [Symbols]: 33076
+2022-01-20 13:20:50 INFO SimpleProfiler |Learning [ms]: 37
+2022-01-20 13:20:50 INFO SimpleProfiler |Searching for counterexample [ms]: 687
+2022-01-20 13:20:50 INFO Benchmarking |Qsize: 29
+2022-01-20 13:20:50 INFO Benchmarking |Isize: 12
+2022-01-20 13:20:50 INFO Benchmarking |Equivalent: NOK
+2022-01-20 13:20:50 INFO Benchmarking |Info: N/A

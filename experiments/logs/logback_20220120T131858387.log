@@ -1,0 +1,30 @@
+2022-01-20 13:18:58 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:18:58 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:18:58 INFO Benchmarking |SUL name: ctinydtls_psk.dot
+2022-01-20 13:18:58 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/DTLS/ctinydtls_psk.dot
+2022-01-20 13:18:58 INFO Benchmarking |Seed: 1642681138376
+2022-01-20 13:18:58 INFO Benchmarking |Cache: Y
+2022-01-20 13:18:58 INFO Benchmarking |EquivalenceOracle: LearnlibEQOracle(wp,1)
+2022-01-20 13:18:58 INFO Benchmarking |Method: L*M
+2022-01-20 13:18:58 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':8,'CESize':6}
+2022-01-20 13:18:58 INFO EQWrapperHypSize |EQStats:{'Iter':2,'HypSize':10,'CESize':4}
+2022-01-20 13:18:58 INFO EQWrapperHypSize |EQStats:{'Iter':3,'HypSize':11,'CESize':7}
+2022-01-20 13:18:58 INFO EQWrapperHypSize |EQStats:{'Iter':4,'HypSize':14,'CESize':6}
+2022-01-20 13:18:58 INFO EQWrapperHypSize |EQStats:{'Iter':5,'HypSize':17,'CESize':6}
+2022-01-20 13:18:58 INFO EQWrapperHypSize |EQStats:{'Iter':6,'HypSize':18,'CESize':6}
+2022-01-20 13:18:58 INFO EQWrapperHypSize |EQStats:{'Iter':7,'HypSize':19,'CESize':7}
+2022-01-20 13:18:58 INFO EQWrapperHypSize |EQStats:{'Iter':8,'HypSize':21,'CESize':6}
+2022-01-20 13:18:59 INFO EQWrapperHypSize |EQStats:{'Iter':9,'HypSize':22,'CESize':6}
+2022-01-20 13:18:59 INFO EQWrapperHypSize |EQStats:{'Iter':10,'HypSize':23,'CESize':6}
+2022-01-20 13:18:59 INFO EQWrapperHypSize |EQStats:{'Iter':11,'HypSize':25,'CESize':0}
+2022-01-20 13:18:59 INFO Benchmarking |Rounds: 11
+2022-01-20 13:18:59 INFO Benchmarking |MQ [Resets]: 2722
+2022-01-20 13:18:59 INFO Benchmarking |MQ [Symbols]: 18053
+2022-01-20 13:18:59 INFO Benchmarking |EQ [Resets]: 4933
+2022-01-20 13:18:59 INFO Benchmarking |EQ [Symbols]: 34633
+2022-01-20 13:18:59 INFO SimpleProfiler |Learning [ms]: 116
+2022-01-20 13:18:59 INFO SimpleProfiler |Searching for counterexample [ms]: 318
+2022-01-20 13:18:59 INFO Benchmarking |Qsize: 25
+2022-01-20 13:18:59 INFO Benchmarking |Isize: 7
+2022-01-20 13:18:59 INFO Benchmarking |Equivalent: OK
+2022-01-20 13:18:59 INFO Benchmarking |Info: N/A

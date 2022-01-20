@@ -1,0 +1,29 @@
+2022-01-20 13:19:12 INFO Benchmarking |ClosingStrategy: CloseFirst
+2022-01-20 13:19:12 INFO Benchmarking |ObservationTableCEXHandler: RivestSchapire
+2022-01-20 13:19:12 INFO Benchmarking |SUL name: gnutls-3.6.7_all_cert_req.dot
+2022-01-20 13:19:12 INFO Benchmarking |SUL dir: /home/bharat/research/survey_2022/cttlearn/experiments/../data/automata_wiki/benchmarks/DTLS/gnutls-3.6.7_all_cert_req.dot
+2022-01-20 13:19:12 INFO Benchmarking |Seed: 1642681152045
+2022-01-20 13:19:12 INFO Benchmarking |Cache: Y
+2022-01-20 13:19:12 INFO SouchaCTT |EquivalenceOracle: SouchaCTT: {Technique=hsi;ExtraStates=1;}
+2022-01-20 13:19:12 INFO Benchmarking |EquivalenceOracle: SouchaCTT(hsi,1)
+2022-01-20 13:19:12 INFO Benchmarking |Method: L*M
+2022-01-20 13:19:12 INFO EQWrapperHypSize |EQStats:{'Iter':1,'HypSize':3,'CESize':4}
+2022-01-20 13:19:12 INFO EQWrapperHypSize |EQStats:{'Iter':2,'HypSize':4,'CESize':4}
+2022-01-20 13:19:12 INFO EQWrapperHypSize |EQStats:{'Iter':3,'HypSize':5,'CESize':5}
+2022-01-20 13:19:12 INFO EQWrapperHypSize |EQStats:{'Iter':4,'HypSize':6,'CESize':5}
+2022-01-20 13:19:12 INFO EQWrapperHypSize |EQStats:{'Iter':5,'HypSize':9,'CESize':5}
+2022-01-20 13:19:13 INFO EQWrapperHypSize |EQStats:{'Iter':6,'HypSize':11,'CESize':6}
+2022-01-20 13:19:13 INFO EQWrapperHypSize |EQStats:{'Iter':7,'HypSize':12,'CESize':6}
+2022-01-20 13:19:14 INFO EQWrapperHypSize |EQStats:{'Iter':8,'HypSize':13,'CESize':7}
+2022-01-20 13:19:14 INFO EQWrapperHypSize |EQStats:{'Iter':9,'HypSize':14,'CESize':0}
+2022-01-20 13:19:14 INFO Benchmarking |Rounds: 9
+2022-01-20 13:19:14 INFO Benchmarking |MQ [Resets]: 5282
+2022-01-20 13:19:14 INFO Benchmarking |MQ [Symbols]: 27029
+2022-01-20 13:19:14 INFO Benchmarking |EQ [Resets]: 18491
+2022-01-20 13:19:14 INFO Benchmarking |EQ [Symbols]: 115148
+2022-01-20 13:19:14 INFO SimpleProfiler |Learning [ms]: 128
+2022-01-20 13:19:14 INFO SimpleProfiler |Searching for counterexample [ms]: 1933
+2022-01-20 13:19:14 INFO Benchmarking |Qsize: 16
+2022-01-20 13:19:14 INFO Benchmarking |Isize: 16
+2022-01-20 13:19:14 INFO Benchmarking |Equivalent: NOK
+2022-01-20 13:19:14 INFO Benchmarking |Info: N/A
