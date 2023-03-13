@@ -1,0 +1,16 @@
+A,B,mwu,mwu<0.05,vda_estimate,vda_magnitude
+HadsInt,Hsi,0.0798,False,0.3948,small
+HadsInt,SPY,0.5147,False,0.5395,negligible
+HadsInt,SPYH,0.0000,True,0.7507,large
+HadsInt,W,0.0000,True,0.8939,large
+HadsInt,Wp,0.0251,True,0.6356,small
+Hsi,SPY,0.0495,True,0.6158,small
+Hsi,SPYH,0.0000,True,0.7940,large
+Hsi,W,0.0000,True,0.9100,large
+Hsi,Wp,0.0008,True,0.7009,medium
+SPY,SPYH,0.0303,True,0.6307,small
+SPY,W,0.0000,True,0.7689,large
+SPY,Wp,0.5478,False,0.5364,negligible
+SPYH,W,0.0140,True,0.6489,small
+SPYH,Wp,0.0209,True,0.3601,small
+W,Wp,0.0000,True,0.1902,large
