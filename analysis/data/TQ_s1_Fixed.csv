@@ -1,4 +1,10 @@
 A,B,mwu,mwu<0.05,vda_estimate,vda_magnitude
+H,HadsInt,0.4652,False,0.5444,negligible
+H,Hsi,0.4234,False,0.5487,negligible
+H,SPY,0.9222,False,0.4939,negligible
+H,SPYH,0.2691,False,0.4329,negligible
+H,W,0.0625,False,0.3871,small
+H,Wp,0.9720,False,0.4976,negligible
 HadsInt,Hsi,0.9098,False,0.5071,negligible
 HadsInt,SPY,0.4464,False,0.4537,negligible
 HadsInt,SPYH,0.0743,False,0.3918,small
