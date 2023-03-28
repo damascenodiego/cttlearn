@@ -71,7 +71,7 @@ def derive_data(data_frame: pd.DataFrame.dtypes):
     # ... and then (FINALLY!) calculate the APFD and AUC for EQs, and TQs
     df_eq = df.query('`Equivalent`=="OK"')
     
-    the_cols = ["SUL name","Seed","TQ [Symbols]","EQ [Symbols]"]
+    the_cols = ["SUL name","TQ [Symbols]","EQ [Symbols]"]
     max_eqs = df[the_cols].groupby(["SUL name"]).max().to_dict()
 
     #df["APFD_testing"] = df.apply(lambda x: apfd(x['Testing symbols'],x['HypSize']) if x.Equivalent=='OK' else -1, axis=1)
@@ -82,6 +82,7 @@ def derive_data(data_frame: pd.DataFrame.dtypes):
     
     #df["AUC_testing"] = df.apply(lambda x: auc_learning(x['Testing symbols'],x['HypSize'],max_nqueries=max_eqs['EQ [Symbols]'][x['SUL name']]) if x.Equivalent=='OK' else -1, axis=1)
     #df["AUC_total"] = df.apply(lambda x: auc_learning(x['Total symbols'],x['HypSize'],max_nqueries=max_eqs['TQ [Symbols]'][x['SUL name']]) if x.Equivalent=='OK' else -1, axis=1)
+    df["AUC"] = df.apply(lambda x: auc_learning(x['Total symbols'],x['HypSize'],max_nqueries=max_eqs['TQ [Symbols]'][x['SUL name']]) if x.Equivalent=='OK' else -1, axis=1)
     
     # to close, return the new dataframe with derived columns
     return df
