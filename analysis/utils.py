@@ -48,14 +48,16 @@ def derive_data(data_frame: pd.DataFrame.dtypes):
         _lst= df[f"{qtype} queries/symbols"].apply(lambda x: [i.split('/') for i in ast.literal_eval(x)])
         df[f"{qtype} queries"]            = _lst.apply(lambda x : np.cumsum([int(i[0]) for i in x])) # resets
         df[f"{qtype} symbols"]            = _lst.apply(lambda x : np.cumsum([int(i[1]) for i in x])) # symbols w/o resets
+        df[f"{qtype} cost"]               = _lst.apply(lambda x : np.cumsum([int(i[0])+int(i[1]) for i in x])) # symbols+reset
 
     # ... and then parsing string with hypotheses sizes as array of integers
-    df["HypSize"] = df["HypSize"].apply(lambda x: ast.literal_eval(x)) 
-    df["TQ [Symbols]"] = df["EQ [Symbols]"]+df["MQ [Symbols]"]
-    df["TQ [Resets]"] = df["EQ [Resets]"]+df["MQ [Resets]"]
-    df["TQ"] = df["TQ [Symbols]"]+df["TQ [Resets]"]
+    df["HypSize"] = df["HypSize"].apply(lambda x: ast.literal_eval(x))
+    df["TC [Symbols]"] = df["EQ [Symbols]"] + df["MQ [Symbols]"]
+    df["TC [Resets]"] = df["EQ [Resets]"] + df["MQ [Resets]"]
+    df["TC"] = df["TC [Symbols]"] + df["TC [Resets]"]
     df["MQ"] = df["MQ [Symbols]"]+df["MQ [Resets]"]
     df["EQ"] = df["EQ [Symbols]"]+df["EQ [Resets]"]
+    
 
     # ... and then append qSize to HypSize, if the run is successfull 
     df["HypSize"] = df.apply(lambda x: x.HypSize + [x.Qsize] if x.Equivalent=='OK' and len(x.HypSize) < x.Rounds else x.HypSize, axis=1)
@@ -63,26 +65,21 @@ def derive_data(data_frame: pd.DataFrame.dtypes):
     # ... and then include #EQs from the single-state model
     df["Testing queries"] = df["Testing queries"].apply(lambda x: [0,*x])
     df["Testing symbols"] = df["Testing symbols"].apply(lambda x: [0,*x])
+    df["Testing cost"]    = df["Testing cost"].apply(lambda x: [0,*x])
     
     # ... and then calculate the total number of queries
     df["Total queries"] = df.apply(lambda x: np.add(x["Testing queries"],x["Learning queries"]) if x.Equivalent=='OK' else [], axis=1)
     df["Total symbols"] = df.apply(lambda x: np.add(x["Testing symbols"],x["Learning symbols"]) if x.Equivalent=='OK' else [], axis=1)
+    df["Total cost"]    = df.apply(lambda x: np.add(x["Testing cost"],   x["Learning cost"]   ) if x.Equivalent=='OK' else [], axis=1)
     
-    # ... and then (FINALLY!) calculate the APFD and AUC for EQs, and TQs
+    # ... and then (FINALLY!) calculate the APFD and AUC for TC
     df_eq = df.query('`Equivalent`=="OK"')
     
-    the_cols = ["SUL name","TQ [Symbols]","EQ [Symbols]"]
+    the_cols = ["SUL name","TC"]
     max_eqs = df[the_cols].groupby(["SUL name"]).max().to_dict()
 
-    #df["APFD_testing"] = df.apply(lambda x: apfd(x['Testing symbols'],x['HypSize']) if x.Equivalent=='OK' else -1, axis=1)
-    #df["APFD_total"] = df.apply(lambda x: apfd(x['Total symbols'],x['HypSize']) if x.Equivalent=='OK' else -1, axis=1)
-    
-    #df["APFD_testing"] = df.apply(lambda x: apfd(x['Testing symbols'],x['HypSize'],max_nqueries=max_eqs['EQ [Symbols]'][(x['SUL name'],x['Seed'])]) if x.Equivalent=='OK' else -1, axis=1)
-    df["APFD"] = df.apply(lambda x: apfd(x['Total symbols'],x['HypSize'],max_nqueries=max_eqs['TQ [Symbols]'][(x['SUL name'])]) if x.Equivalent=='OK' else -1, axis=1)
-    
-    #df["AUC_testing"] = df.apply(lambda x: auc_learning(x['Testing symbols'],x['HypSize'],max_nqueries=max_eqs['EQ [Symbols]'][x['SUL name']]) if x.Equivalent=='OK' else -1, axis=1)
-    #df["AUC_total"] = df.apply(lambda x: auc_learning(x['Total symbols'],x['HypSize'],max_nqueries=max_eqs['TQ [Symbols]'][x['SUL name']]) if x.Equivalent=='OK' else -1, axis=1)
-    df["AUC"] = df.apply(lambda x: auc_learning(x['Total symbols'],x['HypSize'],max_nqueries=max_eqs['TQ [Symbols]'][x['SUL name']]) if x.Equivalent=='OK' else -1, axis=1)
+    df["APFD"] = df.apply(lambda x: apfd(x['Total cost'],x['HypSize'],max_nqueries=max_eqs['TC'][(x['SUL name'])]) if x.Equivalent=='OK' else -1, axis=1)
+    df["AUC"] = df.apply(lambda x: auc_learning(x['Total cost'],x['HypSize'],max_nqueries=max_eqs['TC'][x['SUL name']]) if x.Equivalent=='OK' else -1, axis=1)
     
     # to close, return the new dataframe with derived columns
     return df
@@ -195,31 +192,25 @@ def sort_vda(df_vda):
 def _f_s12(x,max_vals):
     d = {}
     d['SUL name'] = x.apply(lambda x: x['SUL name'],axis=1).tolist()
-    d['TQ_s1'] = x.apply(lambda x: x['TQ'],axis=1).tolist()
-    d['TQ_s2'] = x.apply(lambda x: x['TQ']/max_vals['TQ_max'][x['SUL name']],axis=1).tolist()
+    d['TC_s1'] = x.apply(lambda x: x['TC'],axis=1).tolist()
+    d['TC_s2'] = x.apply(lambda x: x['TC']/max_vals['TC_max'][x['SUL name']],axis=1).tolist()
     
     d['APFD_s1'] = x.apply(lambda x: x['APFD'],axis=1).tolist()
     d['APFD_s2'] = x.apply(lambda x: x['APFD']/max_vals['APFD_max'][x['SUL name']],axis=1).tolist()
     
-    return pd.Series(d, index=['SUL name', 'TQ_s1', 'APFD_s1', 'TQ_s2', 'APFD_s2'])
-    #d['TQ_Resets_s1'] = x.apply(lambda x: x['TQ [Resets]'],axis=1).tolist()
-    #d['TQ_Resets_s2'] = x.apply(lambda x: x['TQ [Resets]']/max_vals['TQ_Resets_max'][x['SUL name']],axis=1).tolist()
-    #d['TQ_Symbols_s1'] = x.apply(lambda x: x['TQ [Symbols]'],axis=1).tolist()
-    #d['TQ_Symbols_s2'] = x.apply(lambda x: x['TQ [Symbols]']/max_vals['TQ_Symbols_max'][x['SUL name']],axis=1).tolist()
-    #return pd.Series(d, index=['SUL name', 'TQ_s1', 'TQ_Resets_s1', 'TQ_Symbols_s1', 'APFD_s1', 'TQ_s2', 'TQ_Resets_s2', 'TQ_Symbols_s2', 'APFD_s2'])
+    return pd.Series(d, index=['SUL name', 'TC_s1', 'APFD_s1', 'TC_s2', 'APFD_s2'])
     
 def _f_max(x):
     d = {}
-    d['TQ_max'] = x['TQ'].max()
-    d['TQ_Resets_max'] = x['TQ [Resets]'].max()
-    d['TQ_Symbols_max'] = x['TQ [Symbols]'].max()
+    d['TC_max'] = x['TC'].max()
+    d['TC_Symbols_max'] = x['TC [Symbols]'].max()
     d['APFD_max'] = x['APFD'].max()
-    return pd.Series(d, index=['TQ_max', 'TQ_Symbols_max', 'TQ_Resets_max', 'APFD_max'])
+    return pd.Series(d, index=['TC_max', 'TC_Symbols_max', 'APFD_max'])
 
 def calc_s12(a_df):
     max_vals = a_df.groupby('SUL name').apply(lambda x: _f_max(x)).to_dict()
     metrics_s12 = a_df.groupby('EquivalenceOracle').apply(lambda x: _f_s12(x,max_vals)).explode(['SUL name', 
-                  'TQ_s1', 'TQ_s2', 'APFD_s1',  'APFD_s2']).reset_index().set_index(['EquivalenceOracle'])
+                  'TC_s1', 'TC_s2', 'APFD_s1',  'APFD_s2']).reset_index().set_index(['EquivalenceOracle'])
     return metrics_s12
 
 def cartesian(arrays, out=None):
