@@ -78,9 +78,12 @@ def derive_data(data_frame: pd.DataFrame.dtypes):
     the_cols = ["SUL name","TC"]
     max_eqs = df[the_cols].groupby(["SUL name"]).max().to_dict()
 
-    df["APFD"] = df.apply(lambda x: apfd(x['Total cost'],x['HypSize'],max_nqueries=max_eqs['TC'][(x['SUL name'])]) if x.Equivalent=='OK' else -1, axis=1)
-    df["AUC"] = df.apply(lambda x: auc_learning(x['Total cost'],x['HypSize'],max_nqueries=max_eqs['TC'][x['SUL name']]) if x.Equivalent=='OK' else -1, axis=1)
-    
+    df["APFD_s1"] = df.apply(lambda x: apfd(x['Total cost'],x['HypSize']) if x.Equivalent=='OK' else -1, axis=1)
+    df["AUC_s1"] = df.apply(lambda x: auc_learning(x['Total cost'],x['HypSize']) if x.Equivalent=='OK' else -1, axis=1)
+
+    df["APFD_s2"] = df.apply(lambda x: apfd(x['Total cost'],x['HypSize'],max_nqueries=max_eqs['TC'][(x['SUL name'])]) if x.Equivalent=='OK' else -1, axis=1)
+    df["AUC_s2"] = df.apply(lambda x: auc_learning(x['Total cost'],x['HypSize'],max_nqueries=max_eqs['TC'][x['SUL name']]) if x.Equivalent=='OK' else -1, axis=1)
+
     # to close, return the new dataframe with derived columns
     return df
 
@@ -195,8 +198,8 @@ def _f_s12(x,max_vals):
     d['TC_s1'] = x.apply(lambda x: x['TC'],axis=1).tolist()
     d['TC_s2'] = x.apply(lambda x: x['TC']/max_vals['TC_max'][x['SUL name']],axis=1).tolist()
     
-    d['APFD_s1'] = x.apply(lambda x: x['APFD'],axis=1).tolist()
-    d['APFD_s2'] = x.apply(lambda x: x['APFD']/max_vals['APFD_max'][x['SUL name']],axis=1).tolist()
+    d['APFD_s1'] = x.apply(lambda x: x['APFD_s1'],axis=1).tolist()
+    d['APFD_s2'] = x.apply(lambda x: x['APFD_s2'],axis=1).tolist()
     
     return pd.Series(d, index=['SUL name', 'TC_s1', 'APFD_s1', 'TC_s2', 'APFD_s2'])
     
@@ -204,8 +207,7 @@ def _f_max(x):
     d = {}
     d['TC_max'] = x['TC'].max()
     d['TC_Symbols_max'] = x['TC [Symbols]'].max()
-    d['APFD_max'] = x['APFD'].max()
-    return pd.Series(d, index=['TC_max', 'TC_Symbols_max', 'APFD_max'])
+    return pd.Series(d, index=['TC_max', 'TC_Symbols_max'])
 
 def calc_s12(a_df):
     max_vals = a_df.groupby('SUL name').apply(lambda x: _f_max(x)).to_dict()
