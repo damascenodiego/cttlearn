@@ -1,16 +1,16 @@
 ,SUL name,HypSizePercent,CTT,Total cost
-76,1_learnresult_MasterCard_fix.dot,20.0,HadsInt,30
-76,1_learnresult_MasterCard_fix.dot,40.0,HadsInt,270
-76,1_learnresult_MasterCard_fix.dot,100.0,HadsInt,14278
+76,1_learnresult_MasterCard_fix.dot,20.0,H-ADS,30
+76,1_learnresult_MasterCard_fix.dot,40.0,H-ADS,270
+76,1_learnresult_MasterCard_fix.dot,100.0,H-ADS,14278
 164,1_learnresult_MasterCard_fix.dot,20.0,Wp,30
 164,1_learnresult_MasterCard_fix.dot,40.0,Wp,270
 164,1_learnresult_MasterCard_fix.dot,100.0,Wp,14278
 197,1_learnresult_MasterCard_fix.dot,20.0,W,30
 197,1_learnresult_MasterCard_fix.dot,40.0,W,270
 197,1_learnresult_MasterCard_fix.dot,100.0,W,14278
-255,1_learnresult_MasterCard_fix.dot,20.0,Hsi,30
-255,1_learnresult_MasterCard_fix.dot,40.0,Hsi,270
-255,1_learnresult_MasterCard_fix.dot,100.0,Hsi,14278
+255,1_learnresult_MasterCard_fix.dot,20.0,HSI,30
+255,1_learnresult_MasterCard_fix.dot,40.0,HSI,270
+255,1_learnresult_MasterCard_fix.dot,100.0,HSI,14278
 413,1_learnresult_MasterCard_fix.dot,20.0,H,30
 413,1_learnresult_MasterCard_fix.dot,40.0,H,270
 413,1_learnresult_MasterCard_fix.dot,100.0,H,17572
@@ -18,6 +18,6 @@
 520,1_learnresult_MasterCard_fix.dot,40.0,SPY,270
 520,1_learnresult_MasterCard_fix.dot,80.0,SPY,2928
 520,1_learnresult_MasterCard_fix.dot,100.0,SPY,26520
-564,1_learnresult_MasterCard_fix.dot,20.0,SPYH,30
-564,1_learnresult_MasterCard_fix.dot,40.0,SPYH,270
-564,1_learnresult_MasterCard_fix.dot,100.0,SPYH,14858
+564,1_learnresult_MasterCard_fix.dot,20.0,SPY-H,30
+564,1_learnresult_MasterCard_fix.dot,40.0,SPY-H,270
+564,1_learnresult_MasterCard_fix.dot,100.0,SPY-H,14858

@@ -1,12 +1,12 @@
 ,SUL name,HypSizePercent,CTT,Total cost
-91,4_learnresult_PIN_fix.dot,16.666666666666664,Hsi,28
-91,4_learnresult_PIN_fix.dot,66.66666666666666,Hsi,280
-91,4_learnresult_PIN_fix.dot,83.33333333333334,Hsi,15112
-91,4_learnresult_PIN_fix.dot,100.0,Hsi,25521
-211,4_learnresult_PIN_fix.dot,16.666666666666664,HadsInt,28
-211,4_learnresult_PIN_fix.dot,66.66666666666666,HadsInt,280
-211,4_learnresult_PIN_fix.dot,83.33333333333334,HadsInt,15112
-211,4_learnresult_PIN_fix.dot,100.0,HadsInt,25521
+91,4_learnresult_PIN_fix.dot,16.666666666666664,HSI,28
+91,4_learnresult_PIN_fix.dot,66.66666666666666,HSI,280
+91,4_learnresult_PIN_fix.dot,83.33333333333334,HSI,15112
+91,4_learnresult_PIN_fix.dot,100.0,HSI,25521
+211,4_learnresult_PIN_fix.dot,16.666666666666664,H-ADS,28
+211,4_learnresult_PIN_fix.dot,66.66666666666666,H-ADS,280
+211,4_learnresult_PIN_fix.dot,83.33333333333334,H-ADS,15112
+211,4_learnresult_PIN_fix.dot,100.0,H-ADS,25521
 289,4_learnresult_PIN_fix.dot,16.666666666666664,W,28
 289,4_learnresult_PIN_fix.dot,66.66666666666666,W,280
 289,4_learnresult_PIN_fix.dot,83.33333333333334,W,15112
@@ -23,7 +23,7 @@
 478,4_learnresult_PIN_fix.dot,66.66666666666666,SPY,280
 478,4_learnresult_PIN_fix.dot,83.33333333333334,SPY,6177
 478,4_learnresult_PIN_fix.dot,100.0,SPY,21665
-553,4_learnresult_PIN_fix.dot,16.666666666666664,SPYH,28
-553,4_learnresult_PIN_fix.dot,66.66666666666666,SPYH,280
-553,4_learnresult_PIN_fix.dot,83.33333333333334,SPYH,25774
-553,4_learnresult_PIN_fix.dot,100.0,SPYH,123618
+553,4_learnresult_PIN_fix.dot,16.666666666666664,SPY-H,28
+553,4_learnresult_PIN_fix.dot,66.66666666666666,SPY-H,280
+553,4_learnresult_PIN_fix.dot,83.33333333333334,SPY-H,25774
+553,4_learnresult_PIN_fix.dot,100.0,SPY-H,123618

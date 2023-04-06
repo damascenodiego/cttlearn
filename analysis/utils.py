@@ -41,7 +41,10 @@ def derive_data(data_frame: pd.DataFrame.dtypes):
     
     # rename soucha CTTs and set CTTs as Categorical data 
     df['CTT'] = df['CTT'].str.replace('Soucha','')
-    df['CTT'] = pd.Categorical(df['CTT'], ["W", "Wp", "Hsi", "H", "SPY", "SPYH", "HadsInt"])
+    df['CTT'] = df['CTT'].str.replace('HadsInt', 'H-ADS')
+    df['CTT'] = df['CTT'].str.replace('SPYH', 'SPY-H')
+    df['CTT'] = df['CTT'].str.replace('Hsi', 'HSI')
+    df['CTT'] = pd.Categorical(df['CTT'], ["W", "Wp", "HSI", "H", "SPY", "SPY-H", "H-ADS"])
     
     # ... split queries/symbols into different columns
     for qtype in ["Learning", "Testing"]:
